@@ -1,0 +1,1388 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+
+<head id="www-collegexpress-com" data-template-set="html5-reset">
+
+    
+  <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,400italic,700italic|Oswald' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://use.typekit.net/eas0rtt.css">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+  
+  <meta charset="utf-8" />
+  <link href="https://plus.google.com/109767584216643620567" rel="publisher" />
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Some of the Weirdest College Scholarship Opportunities | CollegeXpress</title>
+  <meta name="description" content="Some of the Weirdest College Scholarship Opportunities - Before you give up on the idea of getting a scholarship, take a look at this list of th..." />
+  
+  <link rel="canonical" href="https://www.collegexpress.com/lists/list/some-of-the-weirdest-college-scholarship-opportunities/1000/"/>
+  <meta name="viewport" content="width=device-width">
+  <meta name="google-site-verification" content="GExkMwQh5LWW08NlIlPvsqrkTPCDo_R0xmon-nIxvTI" />
+  <meta name="msvalidate.01" content="779A18E20FAE69DEDE733CD8900C0B92" />
+  <meta name="fo-verify" content="3d728217-a0da-4ac0-b7b0-c8ff229143ee" />
+
+  
+  <meta property="fb:app_id" content="1629768883936625" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Some of the Weirdest College Scholarship Opportunities" />
+  <meta property="og:image" content="https://images.collegexpress.com/cnc/insidecollege/list/list_1000.jpg" />
+  <meta property="og:description" content="Before you give up on the idea of getting a scholarship, take a look at this list of the weirdest college scholarships out there. With scholarships as strange as these, you may be eligible for more free college funding than you think! The amount offered is the top award; there may be runner-up prizes too. This list has been updated as of May 2022.
+
+PS: You can &lt;a href=&#34;http://www.collegexpress.com/scholarships/search&#34;&gt;search for scholarships&lt;/a&gt; that fit you right here on CollegeXpress! Search Thousands Of Colleges And Scholarships. Join Our Growing Community Of College Bound Students." />
+  <meta property="og:url" content="https://www.collegexpress.com/lists/list/some-of-the-weirdest-college-scholarship-opportunities/1000/">
+
+
+  
+  <!-- icons for favicon and app -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/static/img/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/static/img/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/static/img/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/static/img/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/static/img/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/static/img/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/static/img/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/static/img/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/static/img/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/static/img/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
+  <link rel="manifest" href="/static/img/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/static/img/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="shortcut icon" href="/static/img/favicon.ico" />
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/base/jquery-ui.css" id="theme"/>
+  <link rel="stylesheet" href="/static/css/print.css" type="text/css" media="print" />
+  <!--[if IE]>
+    <link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen, projection" />
+  <![endif]-->
+  <!--[if lt IE 9]>
+   <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="/static/gen/core.css" type="text/css" media="screen, projection" />
+   
+
+  
+
+  
+ </head>
+
+ <!-- Amount of default banner images -->
+ 
+ <body id="body" class="cx lists_details">
+  
+   
+  
+
+ 
+
+  
+  
+    <header>
+   <div class="top_bar">
+   
+   <div class="content">
+    <div id="menu">
+      
+      <p><a href="/reg/login">Login</a> or <a href="/reg/signup">sign up</a> to be automatically entered into our next $10,000 scholarship giveaway</p>
+      
+      <h5>Get Searching</h5>
+      <ul>
+        <li><a href="/college/search/">College Search</a></li>
+        <li><a href="/articles-and-advice/grad-school/">Graduate School Search</a></li>
+        <li><a href="/scholarships/search">Scholarship Search</a></li>
+        <li><a href="/lists/">Lists &amp; Rankings</a></li>
+      </ul>
+      <h5>Articles &amp; Advice</h5>
+      <ul>
+        <li><a href="/ask-experts/">Ask the Experts</a></li>
+          <li><a href="/interests/business/">Business</a></li>
+          <li><a href="/articles-and-advice/campus-visits/">Campus Visits</a></li>
+          <li><a href="/interests/catholic/">Catholic Colleges and Universities</a></li>
+          <li><a href="/interests/christian/">Christian Colleges and Universities</a></li>
+          <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+          <li><a href="/articles-and-advice/athletics/">College Athletics</a></li>
+          <li><a href="/interests/multicultural/">College Diversity</a></li>
+          <li><a href="/counselors-and-parents/college-counselors/">Counselors and Consultants</a></li>
+          <li><a href="/interests/education/">Education and Teaching</a></li>
+          <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+          <li><a href="/articles-and-advice/grad-school/">Graduate School</a></li>
+          <li><a href="/interests/health-medicine/">Health and Medicine</a></li>
+          <li><a href="/interests/international-students/">International Students</a></li>
+          <li><a href="/articles-and-advice/career-search/">Internships and Careers</a></li>
+          <li><a href="/articles-and-advice/majors-and-academics/">Majors and Academics</a></li>
+          <li><a href="/counselors-and-parents/parents/">Parents</a></li>
+          <li><a href="/interests/performing-and-visual-arts/">Performing and Visual Arts</a></li>
+          <li><a href="/interests/public-colleges-and-universities/">Public Colleges and Universities</a></li>
+          <li><a href="/interests/science-and-engineering/">Science and Engineering</a></li>
+          <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+          <li><a href="/articles-and-advice/test-prep/">Test Prep</a></li>
+          <li><a href="/interests/transfer/">Transfer Students</a></li>
+      </ul>
+      <h5>About Us</h5>
+      <ul class="bb">
+        <li><a href="/contact">Contact Us</a></li>
+        <li><a href="/why_collegexpress/">Why CollegeXpress</a></li>
+        <li><a href="/faq/">FAQs</a></li>
+        <li><a href="/10k/">$10,000 Scholarship</a></li>
+        <li><a href="/store">CollegeXpress Store</a></li>
+        <li><a href="https://www.carnegiehighered.com/">Corporate Website</a></li>
+      </ul>
+      <ul class="privacy bb">
+        <li><a href="/terms/">Terms of Use</a></li>
+        <li><a target="_blank" href="https://www.carnegiehighered.com/privacy-policy/">Privacy Policy</a></li>
+        <li><a target="_blank" href="https://www.carnegiehighered.com/ca-and-eu-privacy-policy/">CA and EU Privacy Policy</a></li>
+      </ul>
+    </div>
+   </div>
+   
+   <div class="content">
+    
+      <div class="flex-grid">
+        <div id="menuToggle">
+          <input type="checkbox" />
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div id="logo" class="col1" itemscope itemtype="http://schema.org/Organization">
+          <a itemprop="url" href="/"><img  itemprop="logo" src="/static/img/logo.svg" alt="CollegeXpress" /></a>
+        </div>
+        <div id="nav" class="col2">
+        <nav>
+        <ul class="main_nav clear-b">
+         <li class="cs content_category" ><a href="/college/search/">College Search <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/college/search/">Search by kewords, location, and more</a></li>
+                    <li><a href="/college/profiles/">Explore our featured schools</a></li>
+                    <li><a href="/lists/">Search by lists and rankings</a></li>
+                    <li><a href="/articles-and-advice/admission/articles/find-college/finding-right-college-match/">Get started with our guide</a></li>
+                    <li><a class="callout" href="/articles-and-advice/grad-school/">Graduate School Search &raquo;</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100273_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/western-new-england-university/1100273/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/western-new-england-university/1100273/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100273_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100273"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/western-new-england-university/1100273/details/">Western New England University<br/>
+                  <em>Springfield, MA</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100246_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/wagner-college/1100246/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/wagner-college/1100246/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100246_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100246"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/wagner-college/1100246/details/">Wagner College<br/>
+                  <em>Staten Island, NY</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100194_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/thiel-college/1100194/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/thiel-college/1100194/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100194_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100194"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/thiel-college/1100194/details/">Thiel College<br/>
+                  <em>Greenville, PA</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/2800032_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/washington-university-in-st-louis/2800032/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/washington-university-in-st-louis/2800032/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/2800032_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="2800032"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/washington-university-in-st-louis/2800032/details/">Washington University in St. Louis<br/>
+                  <em>St. Louis, MO</em></a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+         <li class="ss content_category" ><a href="/scholarships/search">Scholarship Search <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+              <li>
+                <div class="flex-grid">
+                  <div class="col1 p10">
+                    <ul>
+                      <li><a href="/scholarships/search">Search by keywords and academic filters</a></li>
+                      <li><a href="/scholarships/browse/">Search by categories</a></li>
+                      <li><a href="/scholarships/featured/">View all featured scholarships</a></li>
+                      <li><a href="/articles-and-advice/financial-aid/">Learn more about financial aid</a></li>
+                    </ul>
+                  </div>
+
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/collegexpress-10000-scholarship/20240/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/collegeXpressLogo_142x50.jpg'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/collegexpress-10000-scholarship/20240/">CollegeXpress $10,000 Scholarship</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/2500-christian-college-scholarship-drawing/2022477/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/christian_connector.jpg'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/2500-christian-college-scholarship-drawing/2022477/">$2,500 Christian College Scholarship Drawing</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/collegexpress-scholarship-for-students-of-color/2037626/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/cx-square.jpg'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/collegexpress-scholarship-for-students-of-color/2037626/">CollegeXpress Scholarship for Students of Color</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/1000-christian-college-edge-scholarship/2026661/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/christian-connector-2022.png'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/1000-christian-college-edge-scholarship/2026661/">$1,000 Christian College EDGE Scholarship</a></p>
+                  </div>
+                  
+
+                </div>
+              </li>
+          </ul>
+         </li>
+         <li class="lr content_category selected" ><a href="/lists/">Lists &amp; Rankings <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/lists/explore/?chapter_id=100">Browse majors lists</a></li>
+                    <li><a href="/lists/explore/?chapter_id=105">Browse student life lists</a></li>
+                    <li><a href="/lists/explore/?chapter_id=103">Browse college costs lists</a></li>
+                    <li><a href="/lists/explore/">Browse all lists</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/great-colleges-to-study-astronomy/111/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_111.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/great-colleges-to-study-astronomy/111/">Great Colleges to Study Astronomy</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/colleges-with-the-most-foreign-countries-represented-by-their-international-students/2085/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_2085.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/colleges-with-the-most-foreign-countries-represented-by-their-international-students/2085/">Colleges with the Most Foreign Countries Represented by their International Students</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/colleges-with-a-physically-disabled-friendly-environment/403/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_403.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/colleges-with-a-physically-disabled-friendly-environment/403/">Colleges With a Physically Disabled-Friendly Environment</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/excellent-colleges-in-or-near-new-york-city/721/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_721.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/excellent-colleges-in-or-near-new-york-city/721/">Excellent Colleges In or Near New York City</a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+         <li id="interests" class="content_category" ><a href="/interests/">Articles &amp; Advice <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+                    <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+                    <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+                    <li><a href="/interests/">Browse all categories</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <a href="/articles-and-advice/financial-aid/blog/scholarship-saturday-june-2022/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/CX-Scholarship-Saturday-smaller2.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/articles-and-advice/financial-aid/blog/scholarship-saturday-june-2022/">Scholarship Saturday: June  2022</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/interests/multicultural/articles/define-campus-diversity/how-students-can-celebrate-and-acknowledge-juneteenth/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/how-students-celebrate-acknowledge-Junteenth.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/interests/multicultural/articles/define-campus-diversity/how-students-can-celebrate-and-acknowledge-juneteenth/">How Students Can Celebrate and Acknowledge Juneteenth</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/articles-and-advice/majors-and-academics/blog/how-to-know-if-a-nontraditional-major-is-right-for-you/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/how-know-nontraditional-major-right-you.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/articles-and-advice/majors-and-academics/blog/how-to-know-if-a-nontraditional-major-is-right-for-you/">How to Know if a Nontraditional Major Path Is Right for You</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/counselors-and-parents/parents/blog/top-4-questions-to-ask-about-parent-college-orientation/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/4-top-questions-ask-about-parent-orientation.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/counselors-and-parents/parents/blog/top-4-questions-to-ask-about-parent-college-orientation/">Top 4 Questions to Ask About Parent College Orientation</a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+        </ul>
+       </nav>
+        </div>
+        <div id="search_log">
+          <form class="float-r" method="get" action="/search/">
+            <div id="search_bar">
+             
+             <div class="input_wrapper">
+              <input type="text" name="q" placeholder="Search..."/>
+              <button type="submit" class="right_btn icon"><img src="/static/img/icons/search.png" /></button>
+             </div>
+             
+            </div>
+          </form>
+        </div>
+      </div>
+   </div>
+   
+   </div><!-- / top_bar -->
+
+   
+   
+
+  </header>
+  
+  
+   <div class="page-title">
+    <div class="content">
+      
+  <div class="list-header clearfix">
+    <div class="list-image">
+      <img class="list-thumb float-r" src="https://images.collegexpress.com/cnc/insidecollege/list/list_1000.jpg" />
+    </div>
+    <div class="list-name">
+      <h1 >Some of the Weirdest College Scholarship Opportunities</h1>
+    </div>
+    <div class="float-l list-btns">
+      
+  <a class="bookmark btn sm mr-5" id="reg-redirect" href="/reg/login?login_redir_url=https%3A%2F%2Fwww.collegexpress.com%2Flists%2Flist%2Fsome-of-the-weirdest-college-scholarship-opportunities%2F1000%2F&amp;require=1">Bookmark This List</a>
+
+        <a href="#similar-lists" class="btn go sm mr-5">View Similar Lists</a>
+      <a href="/lists/list/where-political-science-phds-received-their-undergraduate-degrees/221/" class="btn compare sm mr-5">View Random List</a>
+    </div>
+  </div>
+
+    </div>
+  </div>
+  
+  <div class="middle">
+    
+<div class="sub-nav-lists">
+  <div class="content">
+    <a class="list-home mr-5" href="/lists/">Lists and Rankings</a> CATEGORY: <a href="/lists/explore/?chapter_id=103&section_id=">College Costs</a>
+    
+  </div>
+</div>
+
+    <div class="content">
+      
+<div class="flex-grid">
+  <div class="col2">
+    <div class="p20 first">
+     <div class="social-stick">
+
+  <script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+  <script type="text/javascript">
+    stLight.options({
+      publisher:'f57dba19-c88e-46dc-9230-b7b7741f5b73',
+      onhover: false
+    });
+    var switchTo5x=true;
+  </script>
+
+<div class="share_this_custom">
+  <span class='content-share-icon st_facebook_custom' st_title='Some of the Weirdest College Scholarship Opportunities'></span>
+  <span class='content-share-icon st_twitter_custom' st_title='Some of the Weirdest College Scholarship Opportunities' st_via='CollegeXpress'></span>
+  <span class='content-share-icon st_pinterest_custom' ></span>
+  <span class='content-share-icon last st_sharethis_custom' st_title='Some of the Weirdest College Scholarship Opportunities' st_via='CollegeXpress'></span>
+</div>
+</div>
+     <div class="list_details clear-b">
+        <p class="italic-head">Before you give up on the idea of getting a scholarship, take a look at this list of the weirdest college scholarships out there. With scholarships as strange as these, you may be eligible for more free college funding than you think! The amount offered is the top award; there may be runner-up prizes too. This list has been updated as of May 2022.
+
+PS: You can <a href="http://www.collegexpress.com/scholarships/search">search for scholarships</a> that fit you right here on CollegeXpress!</p>
+      <div class="clear-b"></div>
+      <p><span class="highlighted">* Highlighted schools are <a href="/college/profiles/">featured</a></span></p>
+        <div class="the_list">
+        <h3>List produced by the Facts <a class="tooltip" href="/faq/#1_5" title="Want more information on how this list was produced? Find out more here!"><img class="info" src="/static/img/icons/information.png" /></a></h3>
+          <ul>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://coursecatalog.bucknell.edu/endowedfunds/endowedscholarships/">The Gertrude J. Deppen Scholarship:</a> Award varies. Available at Bucknell University, this scholarship is offered to students who honor the memory of its namesake by abstaining from drugs and alcohol, as well as being graduates of Mount Carmel Public High School, residents of Mount Carmel (Pennsylvania) for at least 10 years, and not involved in "strenuous athletic contests." <strong>#LowKeyLadies</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://msafungi.org/msa-awards/">Mycological Society of America Scholarships:</a> Award varies. Scholarships up to $10,000 are available to graduates in various specialties who studied mycology, the study of fungi—aka a delicious pizza topping. <strong>#Mushrooms</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://tattoo-journal.com/tattoo-journal-ink-scholarship/">Tattoo Journal Ink Scholarship:</a> Up to $1,800. This isn't your typical essay contest. Instead you get to write about the myth and reality of tattooing. This scholarships has first, second, and third place awards, so you have three chances to win! <strong>#Inked</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.abfse.org">American Board of Funeral Service Education National Scholarship Program:</a> $2,500. You know, working with dead people really isn't that bad. It's quiet, it's consistent, and practically no other job is as stable (except maybe being a tax preparer). If you've completed at least one semester or quarter in an accredited funeral service or mortuary science program, you're eligible for this scholarship. <strong>#DeadPeople</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/aact-john-kitt-memorial-scholarship/2016725/">American Association of Candy Technologists John Kitt Memorial Scholarship:</a> $5,000. This sweet deal is available to college sophomores, juniors, and seniors with a food science-related major and a "demonstrated interest in confectionery technology." (We're guessing your epic love of Sour Patch Kids doesn't count.) <strong>#Candy</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/chick-evans-caddie-scholarship/5428/">Chick Evans Caddie Scholarship:</a> Award varies. This scholarship covers full tuition and housing and is renewable for four years, so all those days of lugging heavy bags around the links might finally pay for golf caddies everywhere. Winners must demonstrate financial need, great grades, and outstanding character...in addition to a "strong caddie record." <strong>#Caddyshack</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/collegiate-inventors-competition/16517/">Collegiate Inventors Competition:</a> Award varies. College students, you can turn your (or your team's) original and brilliant invention into cash money! And it's actual cash money too; it's not a traditional scholarship paid to your college. As long as your idea hasn't been made or shared commercially or patented, you're eligible. <strong>#Inventions</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/create-a-greeting-card-scholarship-contest/2009340/">Create-A-Greeting-Card Scholarship Contest:</a> $10,000. Wishing you the best in creating your own creative greeting card, to be voted on and judged by a panel of experts. Sincerely, CollegeXpress. <strong>#GreetingCards</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/debtcom-scholarship/2025417/">Debt.com Scholarship for Aggressive Scholarship Applicants:</a> $500. When we say "aggressive," we don't mean rude or rough. Rather, this scholarship is to award you for applying to as many other scholarships as you can...which we recommend doing anyway. You simply need to submit your confirmation emails.  <strong>#MetaScholarship</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/doodle-4-google-competition/2023536/ ">Doodle 4 Google Scholarship:</a> $30,000. You know your favorite part of Googling stuff is seeing if there's a fun new Google Doodle to play with that day! Well, you can be part of that and win a college scholarship by submitting a Doodle of your own to the Doodle 4 Google scholarship competition. <strong>#GoogleDoodles</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/high-school-senior-scholarship-contest/2023826/">American Fire Sprinkler Association Scholarship:</a> $2,000. So, first you need to read the "Fire Sprinkler Essay." Then you take a 10-question multiple-choice test about the essay. Then you get a scholarship. Woo! (Okay, there's a basic application too, but it's not too crazy.) <strong>#FireSprinklers</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/music-student-scholarship/2022355/">School Band and Orchestra Magazine Scholarship:</a> $1,000. Put down your oboe and take some time to respond to SBO Magazine's scholarship essay prompt for your shot at free money for college! Questions vary each year, like "Why did you join band, and why do you stick with it?" <strong>#Band</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/national-potato-council-scholarship/2016715/">National Potato Council Scholarship:</a> $10,000. The National Potato Council awards this hefty scholarship annually to a graduate student pursuing advanced study in agribusiness that enhances the potato industry. Mmmm... <strong>#Potatoes</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/robert-w-thunen-memorial-scholarship/2018960/">Illuminating Engineering Society Scholarships:</a> Awards vary. Are you dedicated to good lighting? The folks at the Illuminating Engineering Society of North America certainly are. And if you can demonstrate your skill and vision for the craft and commitment to pursuing illumination as a career, you could snag one of their scholarships. <strong>#Lights</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/rolex-european-scholarship/3355/">Rolex European Scholarship</a>: $25,000. Are you part mermaid? If your college studies bring you underwater at all—whether it's for research, aquatourism, photography, or even underwater welding—you might be eligible for this scholarship for "underwater-related" disciplines. <strong>#Underwater</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/starfleet-academy-scholarship/2016728/">Starfleet Academy Scholarships:</a> $1,000. Starfleet, if you're unfamiliar, is a fan club run by The International Star Trek Fan Association, Inc. Trekkies attending basically any accredited technical, undergraduate, or graduate institution are eligible for this award, provided they've been Starfleet members for at least one year. <strong>#StarTrek</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.collegexpress.com/scholarships/the-vegetarian-resource-groups-college-scholarship/20017/ ">Vegetarian Resource Group Scholarship:</a> $10,000. If you think animals are friends, not food, and you advocate for them in your high school or community, you may be eligible for this award! <strong>#Vegetarian</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.nationalmarblestournament.org/">National Marbles Tournament Scholarship: $2,000:</a> "Mibsters" (aka marble shooters) between the ages of seven and 14 compete in the annual National Marbles Tournament for scholarship dollars—and for the chance to be crowned the King or Queen of Marbles (which we think is even better). <strong>#Marbles</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" http://www.unima-usa.org/about-scholarships/">UNIMA (Union Internationale de la Marionnette-USA) Scholarship:</a> $1,000. Studying to become a puppeteer? If you're a member of the Union Internationale de la Marionnette's US chapter, are 18 years or older, and have demonstrated experience in puppetry, you might be able to snag this award. <strong>#Puppets</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://gamershelpinggamers.org/content/application-process">Gamers Helping Gamers Scholarship:</a> $5,000. If you can wax poetic about your love for Magic: The Gathering (specifically, about the impact the game has had on your life and your favorite and least favorite cards) and you have financial need, you're eligible for this enchanted scholarship. <strong>#Gamers</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://mycoai.com/education-scholarship/">Clowns of America, International Scholarship:</a> Award varies. Planning to go to clown college...or at least a family-friendly entertainment educational program that runs for a minimum of 10 hours? You can apply for this scholarship from the Clowns of America, International. <strong>#Clowns</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://ncsu.academicworks.com/opportunities/133888">John Gatling Scholarship:</a> $60,000. Students with the surname Gatlin or Gatling who plan to attend NC State University can take advantage of this generous alumnus' namesake scholarship. It's worth $10k a year for state residents or $15k for non-residents, and it's renewable for up to four years! <strong>#GotTheRightLastName</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.aws.org/foundation/page/worldskills-usa-scholarships">Miller Electric International WorldSkills Competition Scholarship:</a> $40,000. Are you a would-be welder? The grand prize winner of the biannual US Weld Trial Competition is eligible for $10,000 over four years of a welding-related educational or training program. <strong>#Welding</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.boyer-valley.k12.ia.us/pages/uploaded_files/Branson%20Shows%20Inspired%20Scholarship.pdf">Branson Shows Inspired Scholarship:</a> $1,000. Branson, Missouri, is known for its all-American entertainment, and this ticket seller offers an annual scholarship for students inspired by those family-friendly performers like Presley's Country Jubilee, Dixie Stampede, and the Good Ole Boys. All you have to do is write an essay about "How (*Enter Your Show*) Inspired Me to Realize My Dreams." <strong>#BransonMO</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.collegexpress.com/scholarships/discover-student-loans-scholarship-award/5003476/">Discover Scholarship Award:</a> $5,000. "No purchase or student loan necessary to enter or win." That's what we like to see! Not only is this scholarship contest super easy to enter, but you can earn up to three bonus entries when you share it via social media. <strong>#Discover</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.collegexpress.com/scholarships/rodeo-enthusiast-scholarship/5006368/">Rodeo Enthusiast Scholarship:</a> $500. Applicants must be currently enrolled at an accredited US university and write an essay describing their experience with attending or interest in rodeo. <strong>#Cowboy</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.collegexpress.com/scholarships/zombie-apocalypse-scholarship/2026241/">Zombie Apocalypse Scholarship:</a> $2,000. Quick: the streets are full of the undead (bummer). What's your plan?! If you can convince the scholarship judges you're ready to survive a zombie fallout, you could win enough money to stock your underground shelter for at least a few months. <strong>#Zombies</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.dosomething.org/us/about/easy-scholarships ">DoSomething's Easy Scholarships:</a> Amount varies. Okay, this isn't just one scholarship. But these awards come and go fast, so you need to keep an eye on them! Luckily, they're so weird and fun (and generous) you won't have trouble jumping on the opportunities. Past awards include things like writing a rap for your favorite teacher, designing finger puppets, and giving your friends homemade coupon books. Plus, these scholarship raise awareness of important issues like teacher appreciation, texting while driving, and supporting friends with depression. <strong>#Easy</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.juniata.edu/about/news/index.php?action=SHOWARTICLE&id=17">The Frederick and Mary F. Beckley Left Handed Scholarship:</a> $1,500. Only one college in the world (that we know of) offers a scholarship for left-handed students: Juniata College in Huntingdon, Pennsylvania. Other scholarship requirements include academic excellence and involvement. <strong>#Lefty</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.lec.edu/financial-aid/freshman-aid/">Lake Erie College Twins Scholarship:</a> Award varies. Twins (and families of twins), this is the college tuition two-fer you've been looking for. It's a full tuition scholarship awarded 50/50 if both twin students are enrolled full-time. <strong>#Twins</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.luc.edu/finaid/scholarships/undergraduate/">Zolp Scholarship:</a> Award varies. All you have to be is a Catholic student with the last name of Zolp attending Loyola University Chicago to qualify.  <strong>#GotTheRightLastName</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.nationalgrocers.org/foundation/nga-foundation-scholarships/">The Asparagus Club Scholarship:</a> $2,000. You don't have to love asparagus to join the venerable Asparagus Club or to win one of its biannual scholarships. But you do need to be an upperclassman or grad student studying to become an independent grocer. <strong>#Groceries</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.pokemon.com/us/play-pokemon/pokemon-events/pokemon-tournaments/">Pokémon World Championship Scholarship:</a> Award varies. And you thought you wanted to play in the Pokémon World Championship just for the lifetime prestige and bragging rights. You can also go home with a scholarship that's good until your 28th birthday or 10 years from the day you win. <strong>#GottaCatchEmAll</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.sheepusa.org/researcheducation-scholarship">Sheep Heritage Foundation Memorial Scholarship</a> $3,000. The American Sheep Industry Association awards this scholarship to graduate students in sheep-related studies that advance the lamb and wool industry. Mary had a little scholarship... <strong>#Sheep</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.stuttgartarkansas.org/scholarship-contest.html">Sophie Major Memorial Duck Calling Contest</a>: $2,000. Can you quack with the best of them? Can you speak to the mallards? Take your skills to this classic contest, named for legendary duck callers and duck call makers. <strong>#DuckCalling</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.unigo.com/scholarships/our-scholarships/fifth-month-scholarship">Fifth Month Scholarship:</a> $1,500. What does the number five mean to you? Tell Unigo why it's important in 250 words or fewer to win this easy award. You may want to talk about the fifth month of the year (May) because they're big fans! <strong>#NumberFive</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.unigo.com/scholarships/our-scholarships/flavor-of-the-month-scholarship">Flavor of the Month Scholarship:</a> $1,500. "If you were an ice cream flavor, which would you be and why?" You can scoop up another scholarship from Unigo by answering that prompt in a short and sweet 250-word essay. <strong>#IceCream</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href=" https://www.unigo.com/scholarships/our-scholarships/superpower-scholarship">Superpower Scholarship:</a> $2,500. Have you ever thought about what super hero or villain you would be if you could swap places with one? Well, you can win money just by writing a short essay response about it! <strong>#WithGreatPower</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="http://aanr-ef.com/applications-2/">American Association for Nude Recreation Education Foundation:</a> Award varies. Let it all hang out and apply to this scholarship if you have nudist experience (#nojudgment) and concern for nudist issues like skin cancer, body image, nudist art and literature, and the tiny issue of just getting public acceptance of nudism. <strong>#Nudists</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="http://www.collegexpress.com/scholarships/stuck-at-prom-scholarship/2016718/ ">Duck Brand Duct Tape Stuck on Prom Contest: </a> $10,000. You knew duct tape was useful around the house, but you'll be shocked to see just how pretty it can be! All it takes is a little creativity, an eye for fashion, and upwards of 50 rolls of duct tape and 100 hours of time. No bigs. <strong>#DuctTapeProm</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="http://www.nmmha.com/scholarship-fund.html">New Mexico Manufactured Housing Association Scholarship:</a> $1,500. Do you live in New Mexico and call a mobile or manufactured home, erm, home? Then you're eligible for this scholarship! <strong>#MobileHomes</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.asev.org/scholarship-programs">American Society for Enology and Viticulture Scholarship:</a> Award varies. Winemaking is a lucrative, unique, and deeeeelicious business. Students studying the wine and grape industries are eligible for this annual award. <strong>#Wine</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.svcfoundation.org/scholarships/">Society of Vacuum Coaters Foundation Scholarship:</a> $5,000. This award can fund your venerable vacuum coating technology studies at an accredited technical, vocational, two-year, undergraduate, or graduate school. <strong>#VacuumCoatingIsAThing</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.tall.org/tci-foundation.html">Tall Clubs International Scholarship:</a> $1,000. Serving the (financial) needs of "exceptionally tall people," Tall Clubs International awards its scholarships to students who meet its minimum height requirements: 5' 10" (178 cm) for women and 6' 2" (188 cm) for men. <strong>#Tall</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.tappi.org/education/college-and-university-programs/scholarship-overview/william-l.-cullison-scholarship/">Technical Association of the Pulp and Paper Industry William L. Cullison Scholarship:</a> $4,000. If you get more excited about the Amazon.com box than the goodies inside it, this might be the scholarship for you. It's for incoming college juniors in an academic path related to the pulp, paper, corrugated, and converting industries. <strong>#Paper</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.ukulelefesthawaii.org/scholarship">The Ukulele Festival Hawaii College Scholarship Program:</a> $2,000. Students living in Hawai'i can win this scholarship just by having a passion for the ukulele, possessing strong character, and providing meaningful community service. <strong>#UkeLove</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.unigo.com/scholarships/our-scholarships/make-me-laugh-scholarship">Make Me Laugh Scholarship:</a> $1,500. All this odd scholarship requires is a 250-word essay describing an incident in your life, funny or embarrassing (fact or fiction). <strong>#Embarrassing</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.unigo.com/scholarships/our-scholarships/shout-it-out-scholarship">Shout It Out Scholarship:</a> $1,500. "If you could say one thing to the entire world at once, what would it be and why?" Provided you can say it in 250 words or fewer, you could snag this straightforward scholarship. <strong>#ShoutingButNotReally</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.dickeys.com/press/blog/press-scholarship?msID=77c5c25a-972d-432a-9cf2-d612eb2a9599/">Dickey’s Barbecue Scholarship:</a> $1,000. Dickey’s is passionate about legit Texas barbecue and helping fund college tuition for three lucky students. This scholarship is achievement based and requires a two-page essay on how you plan to give back to your community. <strong>#BBQforAll</strong></span>
+            </li>
+            
+            <li class=" clearfix">
+              <span class="name"><a href="https://www.collegexpress.com/articles-and-advice/financial-aid/blog/collegexpress-mini-scholarship-winners-2022/">CollegeXpress Monthly Mini Scholarships:</a> Awards vary. CX offers easy no-essay scholarship opportunities every month for registered users! All you have to do is create a free account and answer one question—stuff like “What’s your favorite color?” or “Who’s the best college mascot?”<strong>#SuperEasy</strong></span>
+            </li>
+          </ul>
+        </div>
+        
+  <a class="bookmark btn sm mr-5" id="reg-redirect" href="/reg/login?login_redir_url=https%3A%2F%2Fwww.collegexpress.com%2Flists%2Flist%2Fsome-of-the-weirdest-college-scholarship-opportunities%2F1000%2F&amp;require=1">Bookmark This List</a>
+
+        <a href="/lists/list/where-political-science-phds-received-their-undergraduate-degrees/221/" class="btn sm compare">View Random List</a>
+        <div class="clear-b"></div><br/>
+        <p>Want more information on how this list was compiled? Find out more <a href="/faq/#1_5">here</a>.</p>
+     </div>
+    </div>
+  </div>
+
+  <div class="col1">
+    <div class="p20 last">
+      
+  <div class="conversion-callout">
+    <div class="p10">
+      <h2>Join our community of<br class="hideonmobile"/> over 5 million students!</h2>
+      <p>CollegeXpress has everything you need to simplify your college search, get connected to schools, and find your perfect fit.</p>
+      <a class="btn" href="/reg/signup?ref=content_conversion_widget">Join CollegeXpress</a>
+    </div>
+  </div>
+
+
+       <div class="sbox last ten-k mb-20 registration">
+        <div class="p10">
+          
+<div class="short_form">
+  <img class="logo-id img-cntr pt-10" src="/static/img/collegeXpressLogo.png" alt="CollegeXpress Logo" width="180" />
+      <p class="large-value">Still Looking?</p>
+      <h2>There are 800+ more lists!</h2>
+      <p class="highlight">Keep exploring to find your perfect college.</p>
+        
+    <form method="POST" id="id_newsletter_form" class="pt-0"
+          action="/reg/signup?mode=prefill">
+     <input type="hidden" name="next_url" value="registration.signup"/>
+     <input type="hidden" name="success_msg" value="Please continue your registration to get connected!"/>
+
+      <div class="input-holder">
+        <input type="text" name="first_name" value="" id="id_first_name" />
+        <span class="floating-label"><label class="" for="id_first_name">First Name</label></span>
+      </div>
+      <div class="input-holder">
+        <input type="email" name="email" value="" id="id_email" />
+        <span class="floating-label"><label class="required" for="id_email">Email</label></span>
+      </div>
+
+      <div class="field">
+        <button type="submit" class="btn go b-rad-20">
+         Sign Me Up!
+        </button>
+      </div>
+
+    </form>
+
+
+</div>
+
+        </div>
+       </div>
+
+
+       <div class="side_ads mb-20 ad_ops">
+        <!-- ad gets appened in depending on what the screen size is based off googles specs </div>-->
+      </div>
+
+        <div id="similar-lists">
+          <div id="content-similar" class="sbox clearfix">
+          <h2 class="blue-heading pl-10 shuffle align-c">Similar Lists</h2>
+            <div class="sbox hor-300 no-padd mt-0 mr-0 mb-20">
+              <ul id="list-grid" class="ic_lists list-1 lt-blue-bg">
+                  <li><a href="/lists/list/kiplingers-top-10-best-college-values-2016/2740/"><div class="crop article_list_img" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_2740.jpg');">&nbsp;</div><span class="list-title section">College Costs</span><br/><span class="list-title">Kiplinger&#39;s Top 10 Best College Values 2016</span></a></li>
+                  <li><a href="/lists/list/states-offering-tuition-discounts-to-students-in-neighboring-states/340/"><div class="crop article_list_img" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_340.jpg');">&nbsp;</div><span class="list-title section">College Costs</span><br/><span class="list-title">States Offering Tuition Discounts to Students in Neighboring States</span></a></li>
+                  <li><a href="/lists/list/expensive-colleges-that-can-be-affordable/345/"><div class="crop article_list_img" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_345.jpg');">&nbsp;</div><span class="list-title section">College Costs</span><br/><span class="list-title">Expensive Colleges That Can Be Affordable</span></a></li>
+                  <li><a href="/lists/list/colleges-that-have-a-relatively-low-cost/344/"><div class="crop article_list_img" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_344.jpg');">&nbsp;</div><span class="list-title section">College Costs</span><br/><span class="list-title">Colleges That Have a Relatively Low Cost</span></a></li>
+                  <li><a href="/lists/list/colleges-that-meet-the-financial-needs-of-students/349/"><div class="crop article_list_img" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_349.jpg');">&nbsp;</div><span class="list-title section">College Costs</span><br/><span class="list-title">Colleges That Meet the Financial Needs of Students</span></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+  </div>
+</div>
+
+  
+  <div id="paywall" title="Fast and Easy Registration" style="display:none;">
+    <div class="left_paywall">
+      <p class="italic-head">You need to be registered or signed into your CollegeXpress account to view more lists.</p>
+
+      <p class="italic-head">Not a member yet?<br/><strong>What are you waiting for!</strong></p>
+    <p class="italic-head">It's fast, easy, and puts you in the running for our <strong>$10,000 scholarship!</strong></p>
+    </div>
+
+    <div class="right_paywall">
+      <button id="paywall_btn_register" class="btn go">Register Now</button>
+
+        <button id="paywall_btn_login" class="btn compare">Login</button>
+      <button id="paywall_btn_cancel" class="btn bookmark">Cancel</button>
+    </div>
+  </div>
+  
+
+
+    </div><!-- / content -->
+    
+  <div class="clearfix">&nbsp;</div>
+
+  </div><!-- / middle -->
+  <footer>
+   <div class="content">
+   
+   <div class="p20-sides">
+     <div class="flex-grid">
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Basics</li>
+              <li><a href="/contact">Contact Us</a></li>
+              <li><a href="/why_collegexpress/">Why CollegeXpress</a></li>
+              <li><a href="/faq/">FAQs</a></li>
+              <li><a href="/10k/">$10,000 Scholarship</a></li>
+              <li><a href="https://www.carnegiehighered.com/">Corporate Website</a></li>
+              <li><a href="/racial_justice/">Racial Justice Initiatives</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Tools</li>
+              <li><a href="/college/search/">College Search</a></li>
+              <li><a href="/scholarships/search">Scholarship Search</a></li>
+              <li><a href="/lists/">Lists and Rankings</a></li>
+              <li><a href="/articles-and-advice/grad-school/">Graduate School Search</a></li>
+              <li><a href="/interests/">Articles & Advice</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Expert Advice</li>
+              <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+              <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+              <li><a href="/articles-and-advice/athletics/">College Athletics</a></li>
+              <li><a href="/articles-and-advice/test-prep/">Test Prep</a></li>
+              <li><a href="/articles-and-advice/career-search/">Internships and Careers</a></li>
+                <div class="accordion-container">
+                  <a class="accordion" href="#">More Subjects <span class="toggle">&#9662;</span></a>
+                  <ul>
+                    <li><a href="/interests/">All Interests</a></li>
+                    <li><a href="/articles-and-advice/campus-visits/">Campus Visits</a></li>
+                    <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+                    <li><a href="/ask-experts/">Ask the Experts</a></li>
+                    <li><a href="/interests/health-medicine/">Health and Medicine</a></li>
+                    <li><a href="/interests/performing-and-visual-arts/">Performing and Visual Arts</a></li>
+                    <li><a href="/interests/science-and-engineering/">Science and Engineering</a></li>
+                    <li><a href="/interests/business/">Business</a></li>
+                    <li><a href="/interests/catholic/">Catholic Colleges and Universities</a></li>
+                    <li><a href="/interests/christian/">Christian Colleges and Universities</a></li>
+                    <li><a href="/interests/multicultural/">College Diversity</a></li>
+                    <li><a href="/interests/education/">Education and Teaching</a></li>
+                    <li><a href="/interests/international-students/">International Students</a></li>
+                    <li><a href="/interests/public-colleges-and-universities/">Public Colleges and Universities</a></li>
+                    <li><a href="/interests/transfer/">Transfer Students</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Other Resources</li>
+              <li><a href="/store">CollegeXpress Store</a></li>
+              <li><a href="http://profile.collegexpress.com/0A43m2a/edition_list/index.html">Digital Magazines</a></li>
+              <li><a href="/counselors-and-parents/college-counselors/">Counselors &amp; IECs</a></li>
+              <li><a href="/hschecklist/">College Planning Checklist</a></li>
+              <li><a href="/brand_ambassador/">Become a Brand Ambassador</a></li>
+              <li><a href="/affiliate/">Affiliates &amp; Partnerships</a></li>
+                <div class="accordion-container">
+                  <a class="accordion" href="#">More Resources <span class="toggle">&#9662;</span></a>
+                  <ul>
+                    <li><a href="/counselors-and-parents/parents/">Parents</a></li>
+                    <li><a href="/sat-word-game/">SAT Word Game</a></li>
+                    <li><a href="/sat_act_dates/">SAT &amp; ACT Date Wheel</a></li>
+                    <li><a href="/contributor_guidelines/">Contributor Guidelines</a></li>
+                    <li><a href="/student_writers/">Student Writer Guidelines</a></li>
+                    <li><a href="/social_networks/">Social Networks</a></li>
+                    <li><a href="/fact_machine/">The Amazing College Fact Machine</a></li>
+                    <li><a href="/widgets/">Free College Widgets</a></li>
+                    <li><a href="/data_provider/">College Data Updates</a></li>
+                    <li><a href="/data_provider/">Scholarship Providers</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="mb-0 clear-b"><img src="/static/img/CarnDart_logo.svg" alt="Carnegie Logo" /></p>
+
+    <p class="copyright mb-10">Copyright &copy; 2022 <a href="https://www.carnegiehighered.com/">Carnegie Dartlet</a>. All rights reserved.<br/> <a href="/terms/">Terms of Use</a> | <a target="_blank" href="https://www.carnegiehighered.com/privacy-policy/">Privacy Policy</a> | <a target="_blank" href="https://www.carnegiehighered.com/ca-and-eu-privacy-policy/">CA and EU Privacy Policy</a> | <a href="https://www.carnegiehighered.com/personal-information-request-form/" target="_blank">Do Not Sell My Info</a></p>
+
+    <p class="note clear-l">Directory Data is copyrighted material under license to <a href="https://www.wintergreenorchardhouse.com/dataLease.php?subPageCat=dataHome&pageCat=dataLease">CollegeXpress</a> and which is reproduced by permission of CollegeXpress. All rights reserved.</p>
+
+    <table id="social">
+      <tr>
+        <td><a title="Follow CollegeXpress on Facebook" href="https://www.facebook.com/CollegeXpress-226197927416298/" target="_blank"><img src="/static/img/social/facebook.svg" alt="Facebook"></a></td>
+        <td><a title="Follow CollegeXpress on Twitter" href="https://twitter.com/collegexpress" target="_blank"><img src="/static/img/social/twitter.svg" alt="Twitter"></a></td>
+        <td><a title="Follow CollegeXpress on YouTube" href="https://www.youtube.com/user/CollegeXpress" target="_blank"><img src="/static/img/social/youtube.svg" alt="YouTube"></a></td>
+        <td><a title="Follow CollegeXpress on Instagram" href="https://www.instagram.com/collegexpress/" target="_blank"><img src="/static/img/social/instagram.svg" alt="Instagram"></a></td>
+        <td><a title="Follow CollegeXpress on Pinterest" href="https://www.pinterest.com/collegexpress/" target="_blank"><img src="/static/img/social/pinterest.svg" alt="Pinterest"></a></td>
+        <td><a title="Follow CollegeXpress on LinkedIn" href="https://www.linkedin.com/company/collegexpress" target="_blank"><img src="/static/img/social/linkedin.svg" alt="LinkedIn"></a></td>
+      </tr>
+    </table>
+
+    <p class="mt-20"><a target="_blank" title="Carnegie Dartlet BBB Business Review" href="http://www.bbb.org/boston/business-reviews/marketing-programs-and-services/carnegie-communications-in-westford-ma-136489/#bbbonlineclick"><img width="120" alt="Carnegie Dartlet BBB Business Review" style="border: 0;" src="https://seal-boston.bbb.org/seals/blue-seal-160-82-carnegie-communications-136489.png" /></a></p>
+
+    </div>
+    
+
+   </div><!-- / content -->
+
+  </footer>
+
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.validate/1.15.0/jquery.validate.min.js"></script>
+  <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.validate/1.15.0/additional-methods.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.sticky.js"></script>
+  <!-- Unbounce Sticky Bar for Giveback Announcement -->
+  <script src="https://4bc3e21f4d684435bdeb0694f920e003.js.ubembed.com" async></script>
+
+  <script src="/static/gen/core.js"></script>
+
+  
+  
+  
+<script type="text/javascript">
+ $(document).ready(function(){
+     $(".paywall").removeClass("inquiry");
+ });
+
+  var desktop_ad_1 = "<div class='ad_ops' id='div-gpt-1393344632483-0' style='width:300px; height:250px'></div>";
+  var desktop_ad_2 = "<div class='ad_ops' id='div-gpt-1393344632483-1' style='width:300px; height:250px'></div>";
+  var desktop_ad_3 = "<div class='ad_ops' id='div-gpt-1393344632483-2' style='width:300px; height:250px'></div>";
+  var desktop_ad_4 = "<div class='ad_ops' id='div-gpt-1393344632483-3' style='width:300px; height:250px'></div>";
+  var mobile_ad = "<div class='ad_ops' id='div-gpt-1393344632483-4' style='width:320px; height:50px'></div>"
+  var boxy_ad_1 = "<div class='ad_ops' id='div-gpt-1393344632483-5' style='width:336px; height:280px'></div>";
+  var boxy_ad_2 = "<div class='ad_ops' id='div-gpt-1393344632483-6' style='width:336px; height:280px'></div>";
+
+  //currently use landscape mode on iPhone as break point 479px come back
+  //so we can target older awkward resolutions ie 800x600
+
+  if ($(window).width() <= 479) {
+    $('.side_ads').html(mobile_ad + boxy_ad_1 + boxy_ad_2);
+  }
+  else {
+    $('.side_ads').html(boxy_ad_1 + boxy_ad_2);
+  }
+
+</script>
+
+
+  
+        
+
+        
+  <script>
+  $(document).ready(function(){
+    $("#id_newsletter_form").validate({
+      rules: {
+       email: 'required email ascii'
+       ,iama: 'required'
+       ,optin: 'required'
+      }
+      ,submitHandler:
+        function(form) {
+          $(':submit', $(form)).click(function() {
+
+            return false;
+          });
+          form.submit();
+        }
+    });
+  });
+  </script>
+
+        
+
+
+
+  <script>
+    $(".inquiry_btn").click(function(){
+      var scid = $(this).data("scid");
+        if ($("body").hasClass("gcu")) {
+          var url = "/reg/signup?iama=S%3A9&require=1";
+          var decodeUrl = decodeURIComponent(url);
+          window.location.href = decodeUrl
+        } else {
+          var url = "/reg/signup?campaign=schoolconnect&scid=-1".replace("-1", scid);
+          window.location.href = url;
+        }
+      return false;
+    });
+  </script>
+
+  
+  
+
+  
+
+
+
+    
+    
+
+ <!-- Google Code for CollegeXpress All Remarketing List -->
+ <script type="text/javascript">
+ /* <![CDATA[ */
+ var google_conversion_id = 1003271569;
+ var google_conversion_label = "ZQXrCNf_hQQQkeuy3gM";
+ var google_custom_params = window.google_tag_params;
+ var google_remarketing_only = true;
+ /* ]]> */
+ </script>
+ <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+ </script>
+ <noscript>
+ <div style="display:inline;">
+ <img height="1" width="1" style="border-style:none;" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1003271569/?value=0&amp;label=ZQXrCNf_hQQQkeuy3gM&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
+
+
+  
+    <script>
+    $(function() {
+
+      var pageWidth = $(window).width();
+
+      $('#menuToggle input').click(function() {
+       $('#menu').toggle();
+       $('html, body').toggleClass('noscroll');
+      });
+
+      if(typeof(Modernizr) != "undefined" && Modernizr.input.placeholder){
+        $("#body").addClass("has-placeholder");
+      }
+
+      // messages
+      $("div.error_container").delay(1000).animate({
+        left: '+=380'
+      }).delay(7000).animate({
+        left: '-=380'
+      });
+
+      // slide up message
+      $(window).scroll(function () {
+        if ($(this).scrollTop() > 200) {
+          if ($.cookie('fb-out') != 'true' ) {
+            $(".slide_up").slideDown(800);
+            $(".close_banner").click(function() {
+              $(".slide_up").slideUp(500);
+              var date = new Date();
+              var minutes = 120;
+              date.setTime(date.getTime() + (minutes * 60 * 1000));
+              $.cookie('fb-out', 'true', { expires: date, path: '/' });
+              return false;
+            });
+          }
+        }
+      });
+
+      // slide up message logged in
+      $(window).scroll(function () {
+        if ($(this).scrollTop() > 200) {
+          if ($.cookie('fb-in') != 'true' ) {
+            $(".slide_up_in").slideDown(800);
+            $(".close_banner").click(function() {
+              $(".slide_up_in").slideUp(500);
+              $.cookie('fb-in', 'true', { expires: 7, path: '/'});
+              return false;
+            });
+          }
+        }
+      });
+
+      // dropdown menus
+      var megaConfig = {
+             interval: 100,
+             sensitivity: 7,
+             over: function(){
+          $(this).find("ul").show();
+          $(this).addClass('link-category');
+         },
+             timeout: 300,
+             out: function(){
+          $(this).find("ul").hide();
+          $(this).removeClass('link-category');
+         }
+        };
+
+      if ($(window).width() >= 1259) {
+        $(".content_category").hoverIntent(megaConfig);
+      }
+
+      $("a.tracked, button.tracked").click(function(){
+        $(this).removeClass("tracked");
+        try{
+          
+  
+        }
+        catch(e){}
+        return true;
+      });
+
+      //accordion for footer links
+      $('.accordion').click(function() {
+        $(this).next('ul').slideToggle();
+        $(this).children('.toggle').toggleClass('rotate');
+        return false;
+      });
+
+      //offsets for inline anchors
+      $('a[href*="#"]:not([href="#"])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html, body').animate({
+              scrollTop: target.offset().top - 150
+            }, 1000);
+            return false;
+          }
+        }
+      });
+
+      //Handle input and selects being style proper evin if autofilled
+      setTimeout(function () {
+        $('input, select').each(function(){
+          if($(this).val()) {
+            $(this).addClass('active');
+          }
+          else if($(this).val() == 188){
+            $(this).removeClass('active');
+          }
+        });
+        $('#id_country_id').removeClass('active');
+      }, 500);
+
+      $('input, select').change(function() {
+        if($(this).val()){
+          $(this).addClass('active');
+        }
+        else{
+          $(this).removeClass('active');
+        }
+      });
+
+    });
+
+  </script>
+
+  <script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+
+
+if(document.getElementById("div-gpt-1393344632483-0")){
+  googletag.defineSlot('/55183462/300x250_A', [300, 250], 'div-gpt-1393344632483-0').addService(googletag.pubads())
+      .setTargeting("section", ["lists"])
+      .setTargeting("page", ["lists.list_view"])
+  ;
+}
+
+
+if(document.getElementById("div-gpt-1393344632483-1")){
+  googletag.defineSlot('/55183462/300x250_B', [300, 250], 'div-gpt-1393344632483-1').addService(googletag.pubads())
+      .setTargeting("section", ["lists"])
+      .setTargeting("page", ["lists.list_view"])
+  ;
+}
+
+
+if(document.getElementById("div-gpt-1393344632483-2")){
+  googletag.defineSlot('/55183462/300x250_C', [300, 250], 'div-gpt-1393344632483-2').addService(googletag.pubads())
+      .setTargeting("section", ["lists"])
+      .setTargeting("page", ["lists.list_view"])
+  ;
+}
+
+
+if(document.getElementById("div-gpt-1393344632483-3")){
+  googletag.defineSlot('/55183462/300x250_D', [300, 250], 'div-gpt-1393344632483-3').addService(googletag.pubads())
+      .setTargeting("section", ["lists"])
+      .setTargeting("page", ["lists.list_view"])
+  ;
+}
+
+
+if(document.getElementById("div-gpt-1393344632483-4")){
+  googletag.defineSlot('/55183462/320x50', [320, 50], 'div-gpt-1393344632483-4').addService(googletag.pubads())
+      .setTargeting("section", ["lists"])
+      .setTargeting("page", ["lists.list_view"])
+  ;
+}
+
+
+if(document.getElementById("div-gpt-1393344632483-5")){
+  googletag.defineSlot('/55183462/336x280_A', [336, 280], 'div-gpt-1393344632483-5').addService(googletag.pubads())
+      .setTargeting("section", ["lists"])
+      .setTargeting("page", ["lists.list_view"])
+  ;
+}
+
+
+if(document.getElementById("div-gpt-1393344632483-6")){
+  googletag.defineSlot('/55183462/336x280_B', [336, 280], 'div-gpt-1393344632483-6').addService(googletag.pubads())
+      .setTargeting("section", ["lists"])
+      .setTargeting("page", ["lists.list_view"])
+  ;
+}
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+</script>
+
+  <script type='text/javascript'>
+
+
+    if(document.getElementById("div-gpt-1393344632483-0")){
+        googletag.cmd.push(function() { googletag.display('div-gpt-1393344632483-0'); });
+    }
+  </script>
+  <script type='text/javascript'>
+
+
+    if(document.getElementById("div-gpt-1393344632483-1")){
+        googletag.cmd.push(function() { googletag.display('div-gpt-1393344632483-1'); });
+    }
+  </script>
+  <script type='text/javascript'>
+
+
+    if(document.getElementById("div-gpt-1393344632483-2")){
+        googletag.cmd.push(function() { googletag.display('div-gpt-1393344632483-2'); });
+    }
+  </script>
+  <script type='text/javascript'>
+
+
+    if(document.getElementById("div-gpt-1393344632483-3")){
+        googletag.cmd.push(function() { googletag.display('div-gpt-1393344632483-3'); });
+    }
+  </script>
+  <script type='text/javascript'>
+
+
+    if(document.getElementById("div-gpt-1393344632483-4")){
+        googletag.cmd.push(function() { googletag.display('div-gpt-1393344632483-4'); });
+    }
+  </script>
+  <script type='text/javascript'>
+
+
+    if(document.getElementById("div-gpt-1393344632483-5")){
+        googletag.cmd.push(function() { googletag.display('div-gpt-1393344632483-5'); });
+    }
+  </script>
+  <script type='text/javascript'>
+
+
+    if(document.getElementById("div-gpt-1393344632483-6")){
+        googletag.cmd.push(function() { googletag.display('div-gpt-1393344632483-6'); });
+    }
+  </script>
+
+
+
+  
+
+    <script>
+
+      var dataLayer = [];
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52R65W"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-52R65W');</script>
+    <!-- End Google Tag Manager -->
+  <!-- google + -->
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+    (function(){
+     var tw = document.createElement('script'); tw.type = 'text/javascript'; tw.async = true;
+     tw.src = "https://platform.twitter.com/widgets.js";
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tw, s);
+     })();
+  </script>
+
+  <!-- schema.org CX info -->
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "CollegeXpress",
+    "url" : "https://www.collegexpress.com/",
+    "logo": "https://www.collegexpress.com/static/img/collegeXpressLogo.png",
+    "sameAs" : [
+      "https://www.facebook.com/pages/CollegeXpress/226197927416298",
+      "https://twitter.com/CollegeXpress",
+      "https://plus.google.com/+Collegexpress/",
+      "https://www.instagram.com/collegexpress/"
+    ],
+    "contactPoint" : [{
+      "@type" : "ContactPoint",
+      "telephone" : "+1-978-692-5092",
+      "contactType" : "customer service"
+    }]
+  }
+  </script>
+
+  <script>
+  
+  
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000"
+        }
+        ,"button": {
+          "background": "#01dc7e"
+        }
+      }
+      ,"content": {
+        "href": "https://www.carnegiehighered.com/privacy-policy/"
+         ,"message": "This website uses cookies to ensure you get the best experience on our website."
+         ,"dismiss": "Got it"
+
+      }
+      , "location": {
+         serviceDefinitions: {
+
+           geolocation: function(options) {
+             return {
+               url: 'https://freegeoip.app/json/',
+               callback: function(done, response) {
+                 // This function must parse the 'response' and return the country code, or fail.
+                 // If this function doesn't fail correctly, then the next service will not run.
+                 // Therefore, it's generally best to add a try {...} catch () {...} block
+                 try {
+                   var json = JSON.parse(response);
+                   // console.log(json.country_code);
+                   if (json.country_code) {
+                     return {code: json.country_code}
+                   }
+                   throw 'Could not find a country code in the response';
+                 } catch (err) {
+                   return new Error('Invalid response (' + err + ')');
+                 }
+               },
+             };
+           },
+         },
+         services: ["geolocation"]
+      }
+    })
+  });
+</script>
+
+
+ </body>
+</html>

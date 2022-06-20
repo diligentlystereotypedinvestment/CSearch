@@ -1,0 +1,2178 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+
+<head id="www-collegexpress-com" data-template-set="html5-reset">
+
+    
+  <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,400italic,700italic|Oswald' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://use.typekit.net/eas0rtt.css">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+  
+  <meta charset="utf-8" />
+  <link href="https://plus.google.com/109767584216643620567" rel="publisher" />
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>World View Lists and Rankings | CollegeXpress</title><meta name="viewport" content="width=device-width">
+  <meta name="google-site-verification" content="GExkMwQh5LWW08NlIlPvsqrkTPCDo_R0xmon-nIxvTI" />
+  <meta name="msvalidate.01" content="779A18E20FAE69DEDE733CD8900C0B92" />
+  <meta name="fo-verify" content="3d728217-a0da-4ac0-b7b0-c8ff229143ee" />
+
+  
+
+  
+  <!-- icons for favicon and app -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/static/img/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/static/img/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/static/img/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/static/img/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/static/img/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/static/img/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/static/img/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/static/img/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/static/img/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/static/img/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
+  <link rel="manifest" href="/static/img/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/static/img/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="shortcut icon" href="/static/img/favicon.ico" />
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/base/jquery-ui.css" id="theme"/>
+  <link rel="stylesheet" href="/static/css/print.css" type="text/css" media="print" />
+  <!--[if IE]>
+    <link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen, projection" />
+  <![endif]-->
+  <!--[if lt IE 9]>
+   <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="/static/gen/core.css" type="text/css" media="screen, projection" />
+   
+
+  
+  
+ </head>
+
+ <!-- Amount of default banner images -->
+ 
+ <body id="body" class="cx lists-explore">
+  
+   
+  
+
+ 
+
+  
+  
+    <header>
+   <div class="top_bar">
+   
+   <div class="content">
+    <div id="menu">
+      
+      <p><a href="/reg/login">Login</a> or <a href="/reg/signup">sign up</a> to be automatically entered into our next $10,000 scholarship giveaway</p>
+      
+      <h5>Get Searching</h5>
+      <ul>
+        <li><a href="/college/search/">College Search</a></li>
+        <li><a href="/articles-and-advice/grad-school/">Graduate School Search</a></li>
+        <li><a href="/scholarships/search">Scholarship Search</a></li>
+        <li><a href="/lists/">Lists &amp; Rankings</a></li>
+      </ul>
+      <h5>Articles &amp; Advice</h5>
+      <ul>
+        <li><a href="/ask-experts/">Ask the Experts</a></li>
+          <li><a href="/interests/business/">Business</a></li>
+          <li><a href="/articles-and-advice/campus-visits/">Campus Visits</a></li>
+          <li><a href="/interests/catholic/">Catholic Colleges and Universities</a></li>
+          <li><a href="/interests/christian/">Christian Colleges and Universities</a></li>
+          <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+          <li><a href="/articles-and-advice/athletics/">College Athletics</a></li>
+          <li><a href="/interests/multicultural/">College Diversity</a></li>
+          <li><a href="/counselors-and-parents/college-counselors/">Counselors and Consultants</a></li>
+          <li><a href="/interests/education/">Education and Teaching</a></li>
+          <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+          <li><a href="/articles-and-advice/grad-school/">Graduate School</a></li>
+          <li><a href="/interests/health-medicine/">Health and Medicine</a></li>
+          <li><a href="/interests/international-students/">International Students</a></li>
+          <li><a href="/articles-and-advice/career-search/">Internships and Careers</a></li>
+          <li><a href="/articles-and-advice/majors-and-academics/">Majors and Academics</a></li>
+          <li><a href="/counselors-and-parents/parents/">Parents</a></li>
+          <li><a href="/interests/performing-and-visual-arts/">Performing and Visual Arts</a></li>
+          <li><a href="/interests/public-colleges-and-universities/">Public Colleges and Universities</a></li>
+          <li><a href="/interests/science-and-engineering/">Science and Engineering</a></li>
+          <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+          <li><a href="/articles-and-advice/test-prep/">Test Prep</a></li>
+          <li><a href="/interests/transfer/">Transfer Students</a></li>
+      </ul>
+      <h5>About Us</h5>
+      <ul class="bb">
+        <li><a href="/contact">Contact Us</a></li>
+        <li><a href="/why_collegexpress/">Why CollegeXpress</a></li>
+        <li><a href="/faq/">FAQs</a></li>
+        <li><a href="/10k/">$10,000 Scholarship</a></li>
+        <li><a href="/store">CollegeXpress Store</a></li>
+        <li><a href="https://www.carnegiehighered.com/">Corporate Website</a></li>
+      </ul>
+      <ul class="privacy bb">
+        <li><a href="/terms/">Terms of Use</a></li>
+        <li><a target="_blank" href="https://www.carnegiehighered.com/privacy-policy/">Privacy Policy</a></li>
+        <li><a target="_blank" href="https://www.carnegiehighered.com/ca-and-eu-privacy-policy/">CA and EU Privacy Policy</a></li>
+      </ul>
+    </div>
+   </div>
+   
+   <div class="content">
+    
+      <div class="flex-grid">
+        <div id="menuToggle">
+          <input type="checkbox" />
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div id="logo" class="col1" itemscope itemtype="http://schema.org/Organization">
+          <a itemprop="url" href="/"><img  itemprop="logo" src="/static/img/logo.svg" alt="CollegeXpress" /></a>
+        </div>
+        <div id="nav" class="col2">
+        <nav>
+        <ul class="main_nav clear-b">
+         <li class="cs content_category" ><a href="/college/search/">College Search <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/college/search/">Search by kewords, location, and more</a></li>
+                    <li><a href="/college/profiles/">Explore our featured schools</a></li>
+                    <li><a href="/lists/">Search by lists and rankings</a></li>
+                    <li><a href="/articles-and-advice/admission/articles/find-college/finding-right-college-match/">Get started with our guide</a></li>
+                    <li><a class="callout" href="/articles-and-advice/grad-school/">Graduate School Search &raquo;</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100388_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/willamette-university/1100388/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/willamette-university/1100388/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100388_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100388"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/willamette-university/1100388/details/">Willamette University<br/>
+                  <em>Salem, OR</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100645_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/western-washington-university/1100645/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/western-washington-university/1100645/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100645_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100645"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/western-washington-university/1100645/details/">Western Washington University<br/>
+                  <em>Bellingham, WA</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/2100363_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/college-of-saint-benedict/2100363/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/college-of-saint-benedict/2100363/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/2100363_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="2100363"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/college-of-saint-benedict/2100363/details/">College of Saint Benedict<br/>
+                  <em>St. Joseph, MN</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100062_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/saint-josephs-university/1100062/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/saint-josephs-university/1100062/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100062_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100062"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/saint-josephs-university/1100062/details/">Saint Joseph&#39;s University<br/>
+                  <em>Philadelphia, PA</em></a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+         <li class="ss content_category" ><a href="/scholarships/search">Scholarship Search <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+              <li>
+                <div class="flex-grid">
+                  <div class="col1 p10">
+                    <ul>
+                      <li><a href="/scholarships/search">Search by keywords and academic filters</a></li>
+                      <li><a href="/scholarships/browse/">Search by categories</a></li>
+                      <li><a href="/scholarships/featured/">View all featured scholarships</a></li>
+                      <li><a href="/articles-and-advice/financial-aid/">Learn more about financial aid</a></li>
+                    </ul>
+                  </div>
+
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/collegexpress-10000-scholarship/20240/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/collegeXpressLogo_142x50.jpg'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/collegexpress-10000-scholarship/20240/">CollegeXpress $10,000 Scholarship</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/the-25145-be-bold-no-essay-scholarship/2037252/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/emails/CollegeXpress/promotions/featured-scholarships/logos/Bold-Symbol_Purple_150x150.png'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/the-25145-be-bold-no-essay-scholarship/2037252/">The $25,145 &#34;Be Bold&#34; No-Essay Scholarship</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/scholarshippoints-10000-scholarship/2014820/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/scholarship-points.png'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/scholarshippoints-10000-scholarship/2014820/">ScholarshipPoints $10,000 Scholarship</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/no-essay-college-scholarship/2005098/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/niche_logo.png'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/no-essay-college-scholarship/2005098/">No Essay College Scholarship</a></p>
+                  </div>
+                  
+
+                </div>
+              </li>
+          </ul>
+         </li>
+         <li class="lr content_category selected" ><a href="/lists/">Lists &amp; Rankings <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/lists/explore/?chapter_id=100">Browse majors lists</a></li>
+                    <li><a href="/lists/explore/?chapter_id=105">Browse student life lists</a></li>
+                    <li><a href="/lists/explore/?chapter_id=103">Browse college costs lists</a></li>
+                    <li><a href="/lists/explore/">Browse all lists</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/schools-offering-substance-free-housing/1663/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_1663.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/schools-offering-substance-free-housing/1663/">Schools Offering Substance-Free Housing</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/how-selective-is-college-admission/674/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_674.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/how-selective-is-college-admission/674/">How Selective Is College Admission?</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/colleges-with-tons-of-school-spirit/409/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_409.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/colleges-with-tons-of-school-spirit/409/">Colleges With Tons of School Spirit</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/colleges-with-great-biology-programs/117/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_117.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/colleges-with-great-biology-programs/117/">Colleges With Great Biology Programs</a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+         <li id="interests" class="content_category" ><a href="/interests/">Articles &amp; Advice <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+                    <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+                    <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+                    <li><a href="/interests/">Browse all categories</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <a href="/articles-and-advice/financial-aid/blog/scholarship-saturday-june-2022/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/CX-Scholarship-Saturday-smaller2.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/articles-and-advice/financial-aid/blog/scholarship-saturday-june-2022/">Scholarship Saturday: June  2022</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/interests/multicultural/articles/define-campus-diversity/how-students-can-celebrate-and-acknowledge-juneteenth/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/how-students-celebrate-acknowledge-Junteenth.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/interests/multicultural/articles/define-campus-diversity/how-students-can-celebrate-and-acknowledge-juneteenth/">How Students Can Celebrate and Acknowledge Juneteenth</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/articles-and-advice/majors-and-academics/blog/how-to-know-if-a-nontraditional-major-is-right-for-you/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/how-know-nontraditional-major-right-you.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/articles-and-advice/majors-and-academics/blog/how-to-know-if-a-nontraditional-major-is-right-for-you/">How to Know if a Nontraditional Major Path Is Right for You</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/counselors-and-parents/parents/blog/top-4-questions-to-ask-about-parent-college-orientation/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/4-top-questions-ask-about-parent-orientation.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/counselors-and-parents/parents/blog/top-4-questions-to-ask-about-parent-college-orientation/">Top 4 Questions to Ask About Parent College Orientation</a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+        </ul>
+       </nav>
+        </div>
+        <div id="search_log">
+          <form class="float-r" method="get" action="/search/">
+            <div id="search_bar">
+             
+             <div class="input_wrapper">
+              <input type="text" name="q" placeholder="Search..."/>
+              <button type="submit" class="right_btn icon"><img src="/static/img/icons/search.png" /></button>
+             </div>
+             
+            </div>
+          </form>
+        </div>
+      </div>
+   </div>
+   
+   </div><!-- / top_bar -->
+
+   
+   
+
+  </header>
+  
+  
+   <div class="page-title">
+    <div class="content">
+      <h1>Lists and Rankings</h1>
+    </div>
+  </div>
+  
+  <div class="middle">
+    
+  <div class="sub-nav-lists">
+    <div class="content">
+      <span>FILTER BY:</span>
+      <form action="/lists/explore/">
+        <select id="chapter_id" name="chapter_id">
+          <option value="">all categories</option>
+            <option value="100" >Majors</option>
+            <option value="101" >The Learning Environment</option>
+            <option value="102" selected=&#34;1&#34;>World View</option>
+            <option value="103" >College Costs</option>
+            <option value="104" >The Student Body</option>
+            <option value="105" >The Student Experience</option>
+            <option value="106" >Athletics</option>
+            <option value="107" >Hidden Gems</option>
+            <option value="108" >College Admission</option>
+            <option value="109" >Campus Location</option>
+            <option value="110" >College Trivia</option>
+            <option value="111" >Helpful Stuff</option>
+        </select>
+        <select id="section_id" name="section_id">
+          <option value="">all sub-categories</option>
+            <option value="172" >Canadian Universities</option>
+            <option value="173" >Other International Lists</option>
+            <option value="171" >Study Abroad</option>
+        </select>
+      </form>
+      <span class="sort" data-sort="random"><img src="/static/img/icons/shuffle.png" alt="shuffle" /></span>
+    </div>
+  </div>
+
+    <div class="content">
+      
+  <div>
+    <h3>Viewing page 1 of 2 with current filters selected</h3>
+    <p>Hit "next" to see more lists or choose some new filters and sub-categories to keep exploring!</p>
+    <div class="flipcards mb-20">
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_325.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/american-colleges-with-international-campuses/325/"></a>
+            <a class="list-box" href="/lists/list/american-colleges-with-international-campuses/325/"><span>American Colleges With International Campuses</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/american-colleges-with-international-campuses/325/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/american-colleges-with-international-campuses/325/">American Colleges With International Campuses</a></p>
+              <p class="align-l">Stay with a host family? Pshh! Not only do these schools offer study abroad, they have a whole campus out there, because sometimes colleges need to enhance...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_323.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/colleges-where-freshman-year-study-abroad-is-common/323/"></a>
+            <a class="list-box" href="/lists/list/colleges-where-freshman-year-study-abroad-is-common/323/"><span>Colleges Where Freshman Year Study Abroad Is Common</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/colleges-where-freshman-year-study-abroad-is-common/323/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/colleges-where-freshman-year-study-abroad-is-common/323/">Colleges Where Freshman Year Study Abroad Is Common</a></p>
+              <p class="align-l">A lot of schools only offer study abroad opportunities to juniors and sometimes sophomores, but the schools on this list decided that their freshmen could...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_318.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/colleges-that-promote-internationalism/318/"></a>
+            <a class="list-box" href="/lists/list/colleges-that-promote-internationalism/318/"><span>Colleges that Promote Internationalism</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/colleges-that-promote-internationalism/318/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/colleges-that-promote-internationalism/318/">Colleges that Promote Internationalism</a></p>
+              <p class="align-l">These schools are members of the Council for European Studies, which...promotes the study of Europe. We know: "Duh."</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_326.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/colleges-with-campuses-in-the-persian-gulf/326/"></a>
+            <a class="list-box" href="/lists/list/colleges-with-campuses-in-the-persian-gulf/326/"><span>Colleges with Campuses in the Persian Gulf</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/colleges-with-campuses-in-the-persian-gulf/326/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/colleges-with-campuses-in-the-persian-gulf/326/">Colleges with Campuses in the Persian Gulf</a></p>
+              <p class="align-l">Always a hotbed of international activity, the Persian Gulf is bustling with satellite campuses from colleges and universities all over the world. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_320.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/highest-undergraduate-participation-in-study-abroad-at-baccalaureate-institutions/320/"></a>
+            <a class="list-box" href="/lists/list/highest-undergraduate-participation-in-study-abroad-at-baccalaureate-institutions/320/"><span>Highest Undergraduate Participation in Study Abroad at Baccalaureate Institutions</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/highest-undergraduate-participation-in-study-abroad-at-baccalaureate-institutions/320/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/highest-undergraduate-participation-in-study-abroad-at-baccalaureate-institutions/320/">Highest Undergraduate Participation in Study Abroad at Baccalaureate Institutions</a></p>
+              <p class="align-l">Beautiful places, incredible food and drink, exotic cultures, attractive foreigners with accents . . . there is definitely a lot to study out there. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_321.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/highest-undergraduate-participation-in-study-abroad-at-doctoral-research-universities/321/"></a>
+            <a class="list-box" href="/lists/list/highest-undergraduate-participation-in-study-abroad-at-doctoral-research-universities/321/"><span>Highest Undergraduate Participation in Study Abroad at Doctoral/Research Universities</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/highest-undergraduate-participation-in-study-abroad-at-doctoral-research-universities/321/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/highest-undergraduate-participation-in-study-abroad-at-doctoral-research-universities/321/">Highest Undergraduate Participation in Study Abroad at Doctoral/Research Universities</a></p>
+              <p class="align-l">How do they even find the time to study abroad with all their research? Those students must know something that we don't.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_327.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/international-study-in-english/327/"></a>
+            <a class="list-box" href="/lists/list/international-study-in-english/327/"><span>International Study in English</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/international-study-in-english/327/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/international-study-in-english/327/">International Study in English</a></p>
+              <p class="align-l">Say you want to study overseas, but the typical one-semester abroad just won't cut it. You could spend all four years at one of these schools, where the...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_322.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/more-colleges-where-lots-of-students-study-abroad/322/"></a>
+            <a class="list-box" href="/lists/list/more-colleges-where-lots-of-students-study-abroad/322/"><span>More Colleges Where Lots of Students Study Abroad</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/more-colleges-where-lots-of-students-study-abroad/322/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/more-colleges-where-lots-of-students-study-abroad/322/">More Colleges Where Lots of Students Study Abroad</a></p>
+              <p class="align-l">The title says it all. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_319.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/the-experts-choice-terrific-study-abroad-programs/319/"></a>
+            <a class="list-box" href="/lists/list/the-experts-choice-terrific-study-abroad-programs/319/"><span>The Experts&#39; Choice: Terrific Study Abroad Programs</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/the-experts-choice-terrific-study-abroad-programs/319/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/the-experts-choice-terrific-study-abroad-programs/319/">The Experts&#39; Choice: Terrific Study Abroad Programs</a></p>
+              <p class="align-l">Most colleges and universities have some form of study abroad, but these schools are truly the best of the best, with more options, more programs, more...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_324.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/top-25-leading-destinations-of-us-study-abroad-students/324/"></a>
+            <a class="list-box" href="/lists/list/top-25-leading-destinations-of-us-study-abroad-students/324/"><span>Top 25 Leading Destinations of U.S. Study Abroad Students</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/top-25-leading-destinations-of-us-study-abroad-students/324/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/top-25-leading-destinations-of-us-study-abroad-students/324/">Top 25 Leading Destinations of U.S. Study Abroad Students</a></p>
+              <p class="align-l">From the hot beaches of Chile to the busy city streets of China, students sure do know how to get around.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_2100.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/top-reasons-for-studying-abroad/2100/"></a>
+            <a class="list-box" href="/lists/list/top-reasons-for-studying-abroad/2100/"><span>Top Reasons for Studying Abroad</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/top-reasons-for-studying-abroad/2100/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/top-reasons-for-studying-abroad/2100/">Top Reasons for Studying Abroad</a></p>
+              <p class="align-l">Studying abroad is kind of a big deal: you have to say goodbye to your tiny campus bubble, your best friends, and your dog to embark on an educational...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_330.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/residential-colleges-in-canada/330/"></a>
+            <a class="list-box" href="/lists/list/residential-colleges-in-canada/330/"><span>Residential Colleges in Canada</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/residential-colleges-in-canada/330/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/residential-colleges-in-canada/330/">Residential Colleges in Canada</a></p>
+              <p class="align-l">Canadian colleges and universities aren't big with on-campus housing, but at these schools, 25% or more of the full-time undergraduates live on campus'so...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_328.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/sought-after-canadian-universities/328/"></a>
+            <a class="list-box" href="/lists/list/sought-after-canadian-universities/328/"><span>Sought-After Canadian Universities</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/sought-after-canadian-universities/328/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/sought-after-canadian-universities/328/">Sought-After Canadian Universities</a></p>
+              <p class="align-l">Not only are these Canadian schools just as selective and respected as some of the top U.S. colleges and universities, they're cheaper too! And they're...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_329.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/the-experts-choice-great-canadian-colleges-for-american-students/329/"></a>
+            <a class="list-box" href="/lists/list/the-experts-choice-great-canadian-colleges-for-american-students/329/"><span>The Experts&#39; Choice: Great Canadian Colleges for American Students</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/the-experts-choice-great-canadian-colleges-for-american-students/329/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/the-experts-choice-great-canadian-colleges-for-american-students/329/">The Experts&#39; Choice: Great Canadian Colleges for American Students</a></p>
+              <p class="align-l">Allo, Americans! Ça va? Come on up for school, eh? FYI, this list is from The College Finder, 2017 edition now available!</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_331.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/association-of-american-international-colleges-and-universities/331/"></a>
+            <a class="list-box" href="/lists/list/association-of-american-international-colleges-and-universities/331/"><span>Association of American International Colleges and Universities</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/association-of-american-international-colleges-and-universities/331/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/association-of-american-international-colleges-and-universities/331/">Association of American International Colleges and Universities</a></p>
+              <p class="align-l">Born with wanderlust? At these schools, a U.S. education is guaranteed abroad. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_337.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/colleges-with-the-largest-enrollment-of-international-students/337/"></a>
+            <a class="list-box" href="/lists/list/colleges-with-the-largest-enrollment-of-international-students/337/"><span>Colleges With the Largest Enrollment of International Students </span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/colleges-with-the-largest-enrollment-of-international-students/337/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/colleges-with-the-largest-enrollment-of-international-students/337/">Colleges With the Largest Enrollment of International Students </a></p>
+              <p class="align-l">These schools see more international traffic than Heathrow Airport. The number is the total enrollment of international students at each college.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="pagination">
+      <a rel="canonical" id="next" class="btn normal pageno float-r" href="/lists/explore/?chapter_id=102&amp;page=2">next</a>
+    </div>
+  </div>
+
+    </div><!-- / content -->
+    
+  </div><!-- / middle -->
+  <footer>
+   <div class="content">
+   
+   <div class="p20-sides">
+     <div class="flex-grid">
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Basics</li>
+              <li><a href="/contact">Contact Us</a></li>
+              <li><a href="/why_collegexpress/">Why CollegeXpress</a></li>
+              <li><a href="/faq/">FAQs</a></li>
+              <li><a href="/10k/">$10,000 Scholarship</a></li>
+              <li><a href="https://www.carnegiehighered.com/">Corporate Website</a></li>
+              <li><a href="/racial_justice/">Racial Justice Initiatives</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Tools</li>
+              <li><a href="/college/search/">College Search</a></li>
+              <li><a href="/scholarships/search">Scholarship Search</a></li>
+              <li><a href="/lists/">Lists and Rankings</a></li>
+              <li><a href="/articles-and-advice/grad-school/">Graduate School Search</a></li>
+              <li><a href="/interests/">Articles & Advice</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Expert Advice</li>
+              <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+              <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+              <li><a href="/articles-and-advice/athletics/">College Athletics</a></li>
+              <li><a href="/articles-and-advice/test-prep/">Test Prep</a></li>
+              <li><a href="/articles-and-advice/career-search/">Internships and Careers</a></li>
+                <div class="accordion-container">
+                  <a class="accordion" href="#">More Subjects <span class="toggle">&#9662;</span></a>
+                  <ul>
+                    <li><a href="/interests/">All Interests</a></li>
+                    <li><a href="/articles-and-advice/campus-visits/">Campus Visits</a></li>
+                    <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+                    <li><a href="/ask-experts/">Ask the Experts</a></li>
+                    <li><a href="/interests/health-medicine/">Health and Medicine</a></li>
+                    <li><a href="/interests/performing-and-visual-arts/">Performing and Visual Arts</a></li>
+                    <li><a href="/interests/science-and-engineering/">Science and Engineering</a></li>
+                    <li><a href="/interests/business/">Business</a></li>
+                    <li><a href="/interests/catholic/">Catholic Colleges and Universities</a></li>
+                    <li><a href="/interests/christian/">Christian Colleges and Universities</a></li>
+                    <li><a href="/interests/multicultural/">College Diversity</a></li>
+                    <li><a href="/interests/education/">Education and Teaching</a></li>
+                    <li><a href="/interests/international-students/">International Students</a></li>
+                    <li><a href="/interests/public-colleges-and-universities/">Public Colleges and Universities</a></li>
+                    <li><a href="/interests/transfer/">Transfer Students</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Other Resources</li>
+              <li><a href="/store">CollegeXpress Store</a></li>
+              <li><a href="http://profile.collegexpress.com/0A43m2a/edition_list/index.html">Digital Magazines</a></li>
+              <li><a href="/counselors-and-parents/college-counselors/">Counselors &amp; IECs</a></li>
+              <li><a href="/hschecklist/">College Planning Checklist</a></li>
+              <li><a href="/brand_ambassador/">Become a Brand Ambassador</a></li>
+              <li><a href="/affiliate/">Affiliates &amp; Partnerships</a></li>
+                <div class="accordion-container">
+                  <a class="accordion" href="#">More Resources <span class="toggle">&#9662;</span></a>
+                  <ul>
+                    <li><a href="/counselors-and-parents/parents/">Parents</a></li>
+                    <li><a href="/sat-word-game/">SAT Word Game</a></li>
+                    <li><a href="/sat_act_dates/">SAT &amp; ACT Date Wheel</a></li>
+                    <li><a href="/contributor_guidelines/">Contributor Guidelines</a></li>
+                    <li><a href="/student_writers/">Student Writer Guidelines</a></li>
+                    <li><a href="/social_networks/">Social Networks</a></li>
+                    <li><a href="/fact_machine/">The Amazing College Fact Machine</a></li>
+                    <li><a href="/widgets/">Free College Widgets</a></li>
+                    <li><a href="/data_provider/">College Data Updates</a></li>
+                    <li><a href="/data_provider/">Scholarship Providers</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="mb-0 clear-b"><img src="/static/img/CarnDart_logo.svg" alt="Carnegie Logo" /></p>
+
+    <p class="copyright mb-10">Copyright &copy; 2022 <a href="https://www.carnegiehighered.com/">Carnegie Dartlet</a>. All rights reserved.<br/> <a href="/terms/">Terms of Use</a> | <a target="_blank" href="https://www.carnegiehighered.com/privacy-policy/">Privacy Policy</a> | <a target="_blank" href="https://www.carnegiehighered.com/ca-and-eu-privacy-policy/">CA and EU Privacy Policy</a> | <a href="https://www.carnegiehighered.com/personal-information-request-form/" target="_blank">Do Not Sell My Info</a></p>
+
+    <p class="note clear-l">Directory Data is copyrighted material under license to <a href="https://www.wintergreenorchardhouse.com/dataLease.php?subPageCat=dataHome&pageCat=dataLease">CollegeXpress</a> and which is reproduced by permission of CollegeXpress. All rights reserved.</p>
+
+    <table id="social">
+      <tr>
+        <td><a title="Follow CollegeXpress on Facebook" href="https://www.facebook.com/CollegeXpress-226197927416298/" target="_blank"><img src="/static/img/social/facebook.svg" alt="Facebook"></a></td>
+        <td><a title="Follow CollegeXpress on Twitter" href="https://twitter.com/collegexpress" target="_blank"><img src="/static/img/social/twitter.svg" alt="Twitter"></a></td>
+        <td><a title="Follow CollegeXpress on YouTube" href="https://www.youtube.com/user/CollegeXpress" target="_blank"><img src="/static/img/social/youtube.svg" alt="YouTube"></a></td>
+        <td><a title="Follow CollegeXpress on Instagram" href="https://www.instagram.com/collegexpress/" target="_blank"><img src="/static/img/social/instagram.svg" alt="Instagram"></a></td>
+        <td><a title="Follow CollegeXpress on Pinterest" href="https://www.pinterest.com/collegexpress/" target="_blank"><img src="/static/img/social/pinterest.svg" alt="Pinterest"></a></td>
+        <td><a title="Follow CollegeXpress on LinkedIn" href="https://www.linkedin.com/company/collegexpress" target="_blank"><img src="/static/img/social/linkedin.svg" alt="LinkedIn"></a></td>
+      </tr>
+    </table>
+
+    <p class="mt-20"><a target="_blank" title="Carnegie Dartlet BBB Business Review" href="http://www.bbb.org/boston/business-reviews/marketing-programs-and-services/carnegie-communications-in-westford-ma-136489/#bbbonlineclick"><img width="120" alt="Carnegie Dartlet BBB Business Review" style="border: 0;" src="https://seal-boston.bbb.org/seals/blue-seal-160-82-carnegie-communications-136489.png" /></a></p>
+
+    </div>
+    
+
+   </div><!-- / content -->
+
+  </footer>
+
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.validate/1.15.0/jquery.validate.min.js"></script>
+  <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.validate/1.15.0/additional-methods.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.sticky.js"></script>
+  <!-- Unbounce Sticky Bar for Giveback Announcement -->
+  <script src="https://4bc3e21f4d684435bdeb0694f920e003.js.ubembed.com" async></script>
+
+  <script src="/static/gen/core.js"></script>
+
+  
+  
+  
+  <script src="/static/js/jquery.mixitup.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      $('.flipcards').mixitup({
+        onMixEnd: function (cardflip) {
+          $(".target").show
+          $('.hover').hover(function(){
+            $(this).addClass('flip');
+            },function(){
+              $(this).removeClass('flip');
+            });
+        }
+      });
+      
+      $(".target").show
+      $('.hover').hover(function(){
+        $(this).addClass('flip');
+        },function(){
+          $(this).removeClass('flip');
+        });
+    });
+    
+    $("#chapter_id").change(function(){
+      $("#section_id")[0].selectedIndex=0;
+    });
+    
+    $("#chapter_id, #section_id").change(function(){
+      this.form.submit();
+    });
+  </script>
+
+  
+        
+
+        
+
+
+
+  <script>
+    $(".inquiry_btn").click(function(){
+      var scid = $(this).data("scid");
+        if ($("body").hasClass("gcu")) {
+          var url = "/reg/signup?iama=S%3A9&require=1";
+          var decodeUrl = decodeURIComponent(url);
+          window.location.href = decodeUrl
+        } else {
+          var url = "/reg/signup?campaign=schoolconnect&scid=-1".replace("-1", scid);
+          window.location.href = url;
+        }
+      return false;
+    });
+  </script>
+
+  
+  
+
+  
+
+
+
+    
+    
+
+ <!-- Google Code for CollegeXpress All Remarketing List -->
+ <script type="text/javascript">
+ /* <![CDATA[ */
+ var google_conversion_id = 1003271569;
+ var google_conversion_label = "ZQXrCNf_hQQQkeuy3gM";
+ var google_custom_params = window.google_tag_params;
+ var google_remarketing_only = true;
+ /* ]]> */
+ </script>
+ <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+ </script>
+ <noscript>
+ <div style="display:inline;">
+ <img height="1" width="1" style="border-style:none;" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1003271569/?value=0&amp;label=ZQXrCNf_hQQQkeuy3gM&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
+
+
+  
+    <script>
+    $(function() {
+
+      var pageWidth = $(window).width();
+
+      $('#menuToggle input').click(function() {
+       $('#menu').toggle();
+       $('html, body').toggleClass('noscroll');
+      });
+
+      if(typeof(Modernizr) != "undefined" && Modernizr.input.placeholder){
+        $("#body").addClass("has-placeholder");
+      }
+
+      // messages
+      $("div.error_container").delay(1000).animate({
+        left: '+=380'
+      }).delay(7000).animate({
+        left: '-=380'
+      });
+
+      // slide up message
+      $(window).scroll(function () {
+        if ($(this).scrollTop() > 200) {
+          if ($.cookie('fb-out') != 'true' ) {
+            $(".slide_up").slideDown(800);
+            $(".close_banner").click(function() {
+              $(".slide_up").slideUp(500);
+              var date = new Date();
+              var minutes = 120;
+              date.setTime(date.getTime() + (minutes * 60 * 1000));
+              $.cookie('fb-out', 'true', { expires: date, path: '/' });
+              return false;
+            });
+          }
+        }
+      });
+
+      // slide up message logged in
+      $(window).scroll(function () {
+        if ($(this).scrollTop() > 200) {
+          if ($.cookie('fb-in') != 'true' ) {
+            $(".slide_up_in").slideDown(800);
+            $(".close_banner").click(function() {
+              $(".slide_up_in").slideUp(500);
+              $.cookie('fb-in', 'true', { expires: 7, path: '/'});
+              return false;
+            });
+          }
+        }
+      });
+
+      // dropdown menus
+      var megaConfig = {
+             interval: 100,
+             sensitivity: 7,
+             over: function(){
+          $(this).find("ul").show();
+          $(this).addClass('link-category');
+         },
+             timeout: 300,
+             out: function(){
+          $(this).find("ul").hide();
+          $(this).removeClass('link-category');
+         }
+        };
+
+      if ($(window).width() >= 1259) {
+        $(".content_category").hoverIntent(megaConfig);
+      }
+
+      $("a.tracked, button.tracked").click(function(){
+        $(this).removeClass("tracked");
+        try{
+          
+  
+        }
+        catch(e){}
+        return true;
+      });
+
+      //accordion for footer links
+      $('.accordion').click(function() {
+        $(this).next('ul').slideToggle();
+        $(this).children('.toggle').toggleClass('rotate');
+        return false;
+      });
+
+      //offsets for inline anchors
+      $('a[href*="#"]:not([href="#"])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html, body').animate({
+              scrollTop: target.offset().top - 150
+            }, 1000);
+            return false;
+          }
+        }
+      });
+
+      //Handle input and selects being style proper evin if autofilled
+      setTimeout(function () {
+        $('input, select').each(function(){
+          if($(this).val()) {
+            $(this).addClass('active');
+          }
+          else if($(this).val() == 188){
+            $(this).removeClass('active');
+          }
+        });
+        $('#id_country_id').removeClass('active');
+      }, 500);
+
+      $('input, select').change(function() {
+        if($(this).val()){
+          $(this).addClass('active');
+        }
+        else{
+          $(this).removeClass('active');
+        }
+      });
+
+    });
+
+  </script>
+
+  
+
+
+  
+
+    <script>
+
+      var dataLayer = [];
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52R65W"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-52R65W');</script>
+    <!-- End Google Tag Manager -->
+  <!-- google + -->
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+    (function(){
+     var tw = document.createElement('script'); tw.type = 'text/javascript'; tw.async = true;
+     tw.src = "https://platform.twitter.com/widgets.js";
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tw, s);
+     })();
+  </script>
+
+  <!-- schema.org CX info -->
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "CollegeXpress",
+    "url" : "https://www.collegexpress.com/",
+    "logo": "https://www.collegexpress.com/static/img/collegeXpressLogo.png",
+    "sameAs" : [
+      "https://www.facebook.com/pages/CollegeXpress/226197927416298",
+      "https://twitter.com/CollegeXpress",
+      "https://plus.google.com/+Collegexpress/",
+      "https://www.instagram.com/collegexpress/"
+    ],
+    "contactPoint" : [{
+      "@type" : "ContactPoint",
+      "telephone" : "+1-978-692-5092",
+      "contactType" : "customer service"
+    }]
+  }
+  </script>
+
+  <script>
+  
+  
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000"
+        }
+        ,"button": {
+          "background": "#01dc7e"
+        }
+      }
+      ,"content": {
+        "href": "https://www.carnegiehighered.com/privacy-policy/"
+         ,"message": "This website uses cookies to ensure you get the best experience on our website."
+         ,"dismiss": "Got it"
+
+      }
+      , "location": {
+         serviceDefinitions: {
+
+           geolocation: function(options) {
+             return {
+               url: 'https://freegeoip.app/json/',
+               callback: function(done, response) {
+                 // This function must parse the 'response' and return the country code, or fail.
+                 // If this function doesn't fail correctly, then the next service will not run.
+                 // Therefore, it's generally best to add a try {...} catch () {...} block
+                 try {
+                   var json = JSON.parse(response);
+                   // console.log(json.country_code);
+                   if (json.country_code) {
+                     return {code: json.country_code}
+                   }
+                   throw 'Could not find a country code in the response';
+                 } catch (err) {
+                   return new Error('Invalid response (' + err + ')');
+                 }
+               },
+             };
+           },
+         },
+         services: ["geolocation"]
+      }
+    })
+  });
+</script>
+
+
+ </body>
+</html>
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" lang="en"> <![endif]-->
+
+<!--[if gt IE 9]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+
+<head id="www-collegexpress-com" data-template-set="html5-reset">
+
+    
+  <link href='//fonts.googleapis.com/css?family=Lato:100,300,400,700,400italic,700italic|Oswald' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://use.typekit.net/eas0rtt.css">
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+  
+  <meta charset="utf-8" />
+  <link href="https://plus.google.com/109767584216643620567" rel="publisher" />
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>World View Lists and Rankings | CollegeXpress</title><meta name="viewport" content="width=device-width">
+  <meta name="google-site-verification" content="GExkMwQh5LWW08NlIlPvsqrkTPCDo_R0xmon-nIxvTI" />
+  <meta name="msvalidate.01" content="779A18E20FAE69DEDE733CD8900C0B92" />
+  <meta name="fo-verify" content="3d728217-a0da-4ac0-b7b0-c8ff229143ee" />
+
+  
+
+  
+  <!-- icons for favicon and app -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/static/img/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/static/img/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/static/img/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/static/img/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/static/img/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/static/img/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/static/img/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/static/img/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/img/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="/static/img/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/static/img/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/img/favicon-16x16.png">
+  <link rel="manifest" href="/static/img/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/static/img/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="shortcut icon" href="/static/img/favicon.ico" />
+  <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/base/jquery-ui.css" id="theme"/>
+  <link rel="stylesheet" href="/static/css/print.css" type="text/css" media="print" />
+  <!--[if IE]>
+    <link rel="stylesheet" href="/static/css/ie.css" type="text/css" media="screen, projection" />
+  <![endif]-->
+  <!--[if lt IE 9]>
+   <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="/static/gen/core.css" type="text/css" media="screen, projection" />
+   
+
+  
+  
+ </head>
+
+ <!-- Amount of default banner images -->
+ 
+ <body id="body" class="cx lists-explore">
+  
+   
+  
+
+ 
+
+  
+  
+    <header>
+   <div class="top_bar">
+   
+   <div class="content">
+    <div id="menu">
+      
+      <p><a href="/reg/login">Login</a> or <a href="/reg/signup">sign up</a> to be automatically entered into our next $10,000 scholarship giveaway</p>
+      
+      <h5>Get Searching</h5>
+      <ul>
+        <li><a href="/college/search/">College Search</a></li>
+        <li><a href="/articles-and-advice/grad-school/">Graduate School Search</a></li>
+        <li><a href="/scholarships/search">Scholarship Search</a></li>
+        <li><a href="/lists/">Lists &amp; Rankings</a></li>
+      </ul>
+      <h5>Articles &amp; Advice</h5>
+      <ul>
+        <li><a href="/ask-experts/">Ask the Experts</a></li>
+          <li><a href="/interests/business/">Business</a></li>
+          <li><a href="/articles-and-advice/campus-visits/">Campus Visits</a></li>
+          <li><a href="/interests/catholic/">Catholic Colleges and Universities</a></li>
+          <li><a href="/interests/christian/">Christian Colleges and Universities</a></li>
+          <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+          <li><a href="/articles-and-advice/athletics/">College Athletics</a></li>
+          <li><a href="/interests/multicultural/">College Diversity</a></li>
+          <li><a href="/counselors-and-parents/college-counselors/">Counselors and Consultants</a></li>
+          <li><a href="/interests/education/">Education and Teaching</a></li>
+          <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+          <li><a href="/articles-and-advice/grad-school/">Graduate School</a></li>
+          <li><a href="/interests/health-medicine/">Health and Medicine</a></li>
+          <li><a href="/interests/international-students/">International Students</a></li>
+          <li><a href="/articles-and-advice/career-search/">Internships and Careers</a></li>
+          <li><a href="/articles-and-advice/majors-and-academics/">Majors and Academics</a></li>
+          <li><a href="/counselors-and-parents/parents/">Parents</a></li>
+          <li><a href="/interests/performing-and-visual-arts/">Performing and Visual Arts</a></li>
+          <li><a href="/interests/public-colleges-and-universities/">Public Colleges and Universities</a></li>
+          <li><a href="/interests/science-and-engineering/">Science and Engineering</a></li>
+          <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+          <li><a href="/articles-and-advice/test-prep/">Test Prep</a></li>
+          <li><a href="/interests/transfer/">Transfer Students</a></li>
+      </ul>
+      <h5>About Us</h5>
+      <ul class="bb">
+        <li><a href="/contact">Contact Us</a></li>
+        <li><a href="/why_collegexpress/">Why CollegeXpress</a></li>
+        <li><a href="/faq/">FAQs</a></li>
+        <li><a href="/10k/">$10,000 Scholarship</a></li>
+        <li><a href="/store">CollegeXpress Store</a></li>
+        <li><a href="https://www.carnegiehighered.com/">Corporate Website</a></li>
+      </ul>
+      <ul class="privacy bb">
+        <li><a href="/terms/">Terms of Use</a></li>
+        <li><a target="_blank" href="https://www.carnegiehighered.com/privacy-policy/">Privacy Policy</a></li>
+        <li><a target="_blank" href="https://www.carnegiehighered.com/ca-and-eu-privacy-policy/">CA and EU Privacy Policy</a></li>
+      </ul>
+    </div>
+   </div>
+   
+   <div class="content">
+    
+      <div class="flex-grid">
+        <div id="menuToggle">
+          <input type="checkbox" />
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+        <div id="logo" class="col1" itemscope itemtype="http://schema.org/Organization">
+          <a itemprop="url" href="/"><img  itemprop="logo" src="/static/img/logo.svg" alt="CollegeXpress" /></a>
+        </div>
+        <div id="nav" class="col2">
+        <nav>
+        <ul class="main_nav clear-b">
+         <li class="cs content_category" ><a href="/college/search/">College Search <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/college/search/">Search by kewords, location, and more</a></li>
+                    <li><a href="/college/profiles/">Explore our featured schools</a></li>
+                    <li><a href="/lists/">Search by lists and rankings</a></li>
+                    <li><a href="/articles-and-advice/admission/articles/find-college/finding-right-college-match/">Get started with our guide</a></li>
+                    <li><a class="callout" href="/articles-and-advice/grad-school/">Graduate School Search &raquo;</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100388_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/willamette-university/1100388/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/willamette-university/1100388/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100388_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100388"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/willamette-university/1100388/details/">Willamette University<br/>
+                  <em>Salem, OR</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100645_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/western-washington-university/1100645/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/western-washington-university/1100645/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100645_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100645"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/western-washington-university/1100645/details/">Western Washington University<br/>
+                  <em>Bellingham, WA</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/2100363_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/college-of-saint-benedict/2100363/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/college-of-saint-benedict/2100363/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/2100363_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="2100363"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/college-of-saint-benedict/2100363/details/">College of Saint Benedict<br/>
+                  <em>St. Joseph, MN</em></a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <div class="showcase" style="background-image: url('https://images.collegexpress.com/wg_school/1100062_img2.jpg'); background-size: cover; background-position: center center;">
+                    <a class="hidden-link" href="/college/saint-josephs-university/1100062/details/"></a>
+                    <!-- Logo -->
+                    <a class="contents-link" href="/college/saint-josephs-university/1100062/details/"><div class="client-logo" style="background-image: url('https://images.collegexpress.com/wg_school/1100062_logo.jpg');"></div></a>
+                    <!-- Save Button -->
+                    
+  <div class="toggle-wrapper">
+      <a rel="nofollow" href="/reg/login?require=1"><div class="heart infotip " data-descr="Favorite"></div></a>
+  </div>
+
+                  </div>
+                  <!-- Inquiry Button -->
+                  
+    <a href="#" class="inquiry_btn btn go sm mb-0 tracked"
+      data-event-category="More Info"
+      data-event-action="Inquiry"
+      data-event-label="Navigation"
+      data-scid="1100062"
+      
+      data-edition=""
+    >Yes, connect me!</a>
+
+                  <p><a class="link-title" href="/college/saint-josephs-university/1100062/details/">Saint Joseph&#39;s University<br/>
+                  <em>Philadelphia, PA</em></a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+         <li class="ss content_category" ><a href="/scholarships/search">Scholarship Search <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+              <li>
+                <div class="flex-grid">
+                  <div class="col1 p10">
+                    <ul>
+                      <li><a href="/scholarships/search">Search by keywords and academic filters</a></li>
+                      <li><a href="/scholarships/browse/">Search by categories</a></li>
+                      <li><a href="/scholarships/featured/">View all featured scholarships</a></li>
+                      <li><a href="/articles-and-advice/financial-aid/">Learn more about financial aid</a></li>
+                    </ul>
+                  </div>
+
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/1000-scholarship-zerocrashfuture/2037677/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/do_something.png'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/1000-scholarship-zerocrashfuture/2037677/">$1,000 Scholarship: #ZeroCrashFuture</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/collegexpress-10000-scholarship/20240/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/collegeXpressLogo_142x50.jpg'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/collegexpress-10000-scholarship/20240/">CollegeXpress $10,000 Scholarship</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/2500-christian-college-scholarship-drawing/2022477/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/christian_connector.jpg'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/2500-christian-college-scholarship-drawing/2022477/">$2,500 Christian College Scholarship Drawing</a></p>
+                  </div>
+                  
+                  <div class="col1 p10">
+                    <a href="/scholarships/scholarshippoints-10000-scholarship/2014820/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/featured_scholarships/scholarship-points.png'); background-color: #FFFFFF; border: 10px solid #FFFFFF; background-size: 50% auto; background-position: center center; background-repeat: no-repeat;"></div></a>
+                    <p><a class="link-title" href="/scholarships/scholarshippoints-10000-scholarship/2014820/">ScholarshipPoints $10,000 Scholarship</a></p>
+                  </div>
+                  
+
+                </div>
+              </li>
+          </ul>
+         </li>
+         <li class="lr content_category selected" ><a href="/lists/">Lists &amp; Rankings <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/lists/explore/?chapter_id=100">Browse majors lists</a></li>
+                    <li><a href="/lists/explore/?chapter_id=105">Browse student life lists</a></li>
+                    <li><a href="/lists/explore/?chapter_id=103">Browse college costs lists</a></li>
+                    <li><a href="/lists/explore/">Browse all lists</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/big-12-conference-colleges-ranked-by-percentage-of-undergraduate-students-to-total-enrollment/268/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_268.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/big-12-conference-colleges-ranked-by-percentage-of-undergraduate-students-to-total-enrollment/268/">Big 12 Conference Colleges Ranked by Percentage of Undergraduate Students to Total Enrollment</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/excellent-colleges-in-or-near-los-angeles/718/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_718.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/excellent-colleges-in-or-near-los-angeles/718/">Excellent Colleges In or Near Los Angeles</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/four-year-colleges-and-universities-in-washington/2874/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_2874.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/four-year-colleges-and-universities-in-washington/2874/">Four-Year Colleges and Universities in Washington</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/lists/list/colleges-with-strength-in-womens-swimming-and-or-diving/579/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/cnc/insidecollege/list/list_579.jpg'); background-size: cover; background-position: center center;"></div></a>
+                  <p><a class="link-title" href="/lists/list/colleges-with-strength-in-womens-swimming-and-or-diving/579/">Colleges With Strength in Women&#39;s Swimming and/or Diving</a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+         <li id="interests" class="content_category" ><a href="/interests/">Articles &amp; Advice <span class="hideonmobile">&nbsp;&#x25BE;</span></a>
+          <ul>
+            <li>
+              <div class="flex-grid">
+                <div class="col1 p10">
+                  <ul>
+                    <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+                    <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+                    <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+                    <li><a href="/interests/">Browse all categories</a></li>
+                  </ul>
+                </div>
+
+                
+                <div class="col1 p10">
+                  <a href="/articles-and-advice/financial-aid/blog/scholarship-saturday-june-2022/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/CX-Scholarship-Saturday-smaller2.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/articles-and-advice/financial-aid/blog/scholarship-saturday-june-2022/">Scholarship Saturday: June  2022</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/interests/multicultural/articles/define-campus-diversity/how-students-can-celebrate-and-acknowledge-juneteenth/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/how-students-celebrate-acknowledge-Junteenth.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/interests/multicultural/articles/define-campus-diversity/how-students-can-celebrate-and-acknowledge-juneteenth/">How Students Can Celebrate and Acknowledge Juneteenth</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/articles-and-advice/majors-and-academics/blog/how-to-know-if-a-nontraditional-major-is-right-for-you/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/how-know-nontraditional-major-right-you.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/articles-and-advice/majors-and-academics/blog/how-to-know-if-a-nontraditional-major-is-right-for-you/">How to Know if a Nontraditional Major Path Is Right for You</a></p>
+                </div>
+                
+                <div class="col1 p10">
+                  <a href="/counselors-and-parents/parents/blog/top-4-questions-to-ask-about-parent-college-orientation/"><div class="showcase" style="background-image: url('https://images.collegexpress.com/blog/4-top-questions-ask-about-parent-orientation.jpg'); background-size: cover; background-position: center center"></div></a>
+                  <p><a class="link-title" href="/counselors-and-parents/parents/blog/top-4-questions-to-ask-about-parent-college-orientation/">Top 4 Questions to Ask About Parent College Orientation</a></p>
+                </div>
+                
+
+              </div>
+            </li>
+          </ul>
+         </li>
+        </ul>
+       </nav>
+        </div>
+        <div id="search_log">
+          <form class="float-r" method="get" action="/search/">
+            <div id="search_bar">
+             
+             <div class="input_wrapper">
+              <input type="text" name="q" placeholder="Search..."/>
+              <button type="submit" class="right_btn icon"><img src="/static/img/icons/search.png" /></button>
+             </div>
+             
+            </div>
+          </form>
+        </div>
+      </div>
+   </div>
+   
+   </div><!-- / top_bar -->
+
+   
+   
+
+  </header>
+  
+  
+   <div class="page-title">
+    <div class="content">
+      <h1>Lists and Rankings</h1>
+    </div>
+  </div>
+  
+  <div class="middle">
+    
+  <div class="sub-nav-lists">
+    <div class="content">
+      <span>FILTER BY:</span>
+      <form action="/lists/explore/">
+        <select id="chapter_id" name="chapter_id">
+          <option value="">all categories</option>
+            <option value="100" >Majors</option>
+            <option value="101" >The Learning Environment</option>
+            <option value="102" selected=&#34;1&#34;>World View</option>
+            <option value="103" >College Costs</option>
+            <option value="104" >The Student Body</option>
+            <option value="105" >The Student Experience</option>
+            <option value="106" >Athletics</option>
+            <option value="107" >Hidden Gems</option>
+            <option value="108" >College Admission</option>
+            <option value="109" >Campus Location</option>
+            <option value="110" >College Trivia</option>
+            <option value="111" >Helpful Stuff</option>
+        </select>
+        <select id="section_id" name="section_id">
+          <option value="">all sub-categories</option>
+            <option value="172" >Canadian Universities</option>
+            <option value="173" >Other International Lists</option>
+            <option value="171" >Study Abroad</option>
+        </select>
+      </form>
+      <span class="sort" data-sort="random"><img src="/static/img/icons/shuffle.png" alt="shuffle" /></span>
+    </div>
+  </div>
+
+    <div class="content">
+      
+  <div>
+    <h3>Viewing page 2 of 2 with current filters selected</h3>
+    <p>Hit "next" to see more lists or choose some new filters and sub-categories to keep exploring!</p>
+    <div class="flipcards mb-20">
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_333.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/colleges-in-the-associated-kyoto-program/333/"></a>
+            <a class="list-box" href="/lists/list/colleges-in-the-associated-kyoto-program/333/"><span>Colleges in the Associated Kyoto Program</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/colleges-in-the-associated-kyoto-program/333/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/colleges-in-the-associated-kyoto-program/333/">Colleges in the Associated Kyoto Program</a></p>
+              <p class="align-l">Fire-red temples, Mount Fuji, and the world's best sushi, hands down: who wouldn't to study in Japan? These schools sponsor students for an entire year in...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_332.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/colleges-that-are-members-of-the-intercollegiate-center-for-classical-studies-in-rome/332/"></a>
+            <a class="list-box" href="/lists/list/colleges-that-are-members-of-the-intercollegiate-center-for-classical-studies-in-rome/332/"><span>Colleges that Are Members of the Intercollegiate Center for Classical Studies in Rome</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/colleges-that-are-members-of-the-intercollegiate-center-for-classical-studies-in-rome/332/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/colleges-that-are-members-of-the-intercollegiate-center-for-classical-studies-in-rome/332/">Colleges that Are Members of the Intercollegiate Center for Classical Studies in Rome</a></p>
+              <p class="align-l">Your football stadium at home will look pretty lame after living across the street from the Coliseum, but it's a small price to pay. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_336.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/colleges-with-the-highest-percentage-of-international-students/336/"></a>
+            <a class="list-box" href="/lists/list/colleges-with-the-highest-percentage-of-international-students/336/"><span>Colleges with the Highest Percentage of International Students</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/colleges-with-the-highest-percentage-of-international-students/336/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/colleges-with-the-highest-percentage-of-international-students/336/">Colleges with the Highest Percentage of International Students</a></p>
+              <p class="align-l">These colleges and universities aren't kidding around when it comes to diversity. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_2085.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/colleges-with-the-most-foreign-countries-represented-by-their-international-students/2085/"></a>
+            <a class="list-box" href="/lists/list/colleges-with-the-most-foreign-countries-represented-by-their-international-students/2085/"><span>Colleges with the Most Foreign Countries Represented by their International Students</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/colleges-with-the-most-foreign-countries-represented-by-their-international-students/2085/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/colleges-with-the-most-foreign-countries-represented-by-their-international-students/2085/">Colleges with the Most Foreign Countries Represented by their International Students</a></p>
+              <p class="align-l">Is this the Student Union or the Olympic Village? Attending one of these colleges will give you chance to meet students from all over the world! Maybe learn...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_335.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/international-student-presence-at-american-colleges-and-universities/335/"></a>
+            <a class="list-box" href="/lists/list/international-student-presence-at-american-colleges-and-universities/335/"><span>International Student Presence at American Colleges and Universities</span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/international-student-presence-at-american-colleges-and-universities/335/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/international-student-presence-at-american-colleges-and-universities/335/">International Student Presence at American Colleges and Universities</a></p>
+              <p class="align-l">Combined, these 20 nations have more than 350,000 students studying in the States. That's greater than the entire population of Iceland! Numbers represent...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="card-container mix">
+        <div class="card">
+          <div class="front" style="background-image:url(https://images.collegexpress.com/cnc/insidecollege/list/list_334.jpg); background-size: cover; background-position: 0 25%;">
+            <a class="hidden" href="/lists/list/states-with-the-most-international-college-students/334/"></a>
+            <a class="list-box" href="/lists/list/states-with-the-most-international-college-students/334/"><span>States With the Most International College Students </span></a>
+          </div>
+          <div class="back">
+            <a class="hidden" href="/lists/list/states-with-the-most-international-college-students/334/"></a>
+            <div class="pad15">
+              <p class="align-c"><a href="/lists/list/states-with-the-most-international-college-students/334/">States With the Most International College Students </a></p>
+              <p class="align-l">Apparently, the rest of world shares our love for California too. </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="pagination">
+      <a rel="canonical" id="prev" class="btn normal pageno float-l" href="/lists/explore/?chapter_id=102&amp;page=1">prev</a>
+    </div>
+  </div>
+
+    </div><!-- / content -->
+    
+  </div><!-- / middle -->
+  <footer>
+   <div class="content">
+   
+   <div class="p20-sides">
+     <div class="flex-grid">
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Basics</li>
+              <li><a href="/contact">Contact Us</a></li>
+              <li><a href="/why_collegexpress/">Why CollegeXpress</a></li>
+              <li><a href="/faq/">FAQs</a></li>
+              <li><a href="/10k/">$10,000 Scholarship</a></li>
+              <li><a href="https://www.carnegiehighered.com/">Corporate Website</a></li>
+              <li><a href="/racial_justice/">Racial Justice Initiatives</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Tools</li>
+              <li><a href="/college/search/">College Search</a></li>
+              <li><a href="/scholarships/search">Scholarship Search</a></li>
+              <li><a href="/lists/">Lists and Rankings</a></li>
+              <li><a href="/articles-and-advice/grad-school/">Graduate School Search</a></li>
+              <li><a href="/interests/">Articles & Advice</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Expert Advice</li>
+              <li><a href="/articles-and-advice/admission/">College Admission</a></li>
+              <li><a href="/articles-and-advice/financial-aid/">Financial Aid</a></li>
+              <li><a href="/articles-and-advice/athletics/">College Athletics</a></li>
+              <li><a href="/articles-and-advice/test-prep/">Test Prep</a></li>
+              <li><a href="/articles-and-advice/career-search/">Internships and Careers</a></li>
+                <div class="accordion-container">
+                  <a class="accordion" href="#">More Subjects <span class="toggle">&#9662;</span></a>
+                  <ul>
+                    <li><a href="/interests/">All Interests</a></li>
+                    <li><a href="/articles-and-advice/campus-visits/">Campus Visits</a></li>
+                    <li><a href="/articles-and-advice/student-life/">Student Life</a></li>
+                    <li><a href="/ask-experts/">Ask the Experts</a></li>
+                    <li><a href="/interests/health-medicine/">Health and Medicine</a></li>
+                    <li><a href="/interests/performing-and-visual-arts/">Performing and Visual Arts</a></li>
+                    <li><a href="/interests/science-and-engineering/">Science and Engineering</a></li>
+                    <li><a href="/interests/business/">Business</a></li>
+                    <li><a href="/interests/catholic/">Catholic Colleges and Universities</a></li>
+                    <li><a href="/interests/christian/">Christian Colleges and Universities</a></li>
+                    <li><a href="/interests/multicultural/">College Diversity</a></li>
+                    <li><a href="/interests/education/">Education and Teaching</a></li>
+                    <li><a href="/interests/international-students/">International Students</a></li>
+                    <li><a href="/interests/public-colleges-and-universities/">Public Colleges and Universities</a></li>
+                    <li><a href="/interests/transfer/">Transfer Students</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col1">
+          <div class="p20">
+            <ul>
+              <li class="ft_heading">Other Resources</li>
+              <li><a href="/store">CollegeXpress Store</a></li>
+              <li><a href="http://profile.collegexpress.com/0A43m2a/edition_list/index.html">Digital Magazines</a></li>
+              <li><a href="/counselors-and-parents/college-counselors/">Counselors &amp; IECs</a></li>
+              <li><a href="/hschecklist/">College Planning Checklist</a></li>
+              <li><a href="/brand_ambassador/">Become a Brand Ambassador</a></li>
+              <li><a href="/affiliate/">Affiliates &amp; Partnerships</a></li>
+                <div class="accordion-container">
+                  <a class="accordion" href="#">More Resources <span class="toggle">&#9662;</span></a>
+                  <ul>
+                    <li><a href="/counselors-and-parents/parents/">Parents</a></li>
+                    <li><a href="/sat-word-game/">SAT Word Game</a></li>
+                    <li><a href="/sat_act_dates/">SAT &amp; ACT Date Wheel</a></li>
+                    <li><a href="/contributor_guidelines/">Contributor Guidelines</a></li>
+                    <li><a href="/student_writers/">Student Writer Guidelines</a></li>
+                    <li><a href="/social_networks/">Social Networks</a></li>
+                    <li><a href="/fact_machine/">The Amazing College Fact Machine</a></li>
+                    <li><a href="/widgets/">Free College Widgets</a></li>
+                    <li><a href="/data_provider/">College Data Updates</a></li>
+                    <li><a href="/data_provider/">Scholarship Providers</a></li>
+                  </ul>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p class="mb-0 clear-b"><img src="/static/img/CarnDart_logo.svg" alt="Carnegie Logo" /></p>
+
+    <p class="copyright mb-10">Copyright &copy; 2022 <a href="https://www.carnegiehighered.com/">Carnegie Dartlet</a>. All rights reserved.<br/> <a href="/terms/">Terms of Use</a> | <a target="_blank" href="https://www.carnegiehighered.com/privacy-policy/">Privacy Policy</a> | <a target="_blank" href="https://www.carnegiehighered.com/ca-and-eu-privacy-policy/">CA and EU Privacy Policy</a> | <a href="https://www.carnegiehighered.com/personal-information-request-form/" target="_blank">Do Not Sell My Info</a></p>
+
+    <p class="note clear-l">Directory Data is copyrighted material under license to <a href="https://www.wintergreenorchardhouse.com/dataLease.php?subPageCat=dataHome&pageCat=dataLease">CollegeXpress</a> and which is reproduced by permission of CollegeXpress. All rights reserved.</p>
+
+    <table id="social">
+      <tr>
+        <td><a title="Follow CollegeXpress on Facebook" href="https://www.facebook.com/CollegeXpress-226197927416298/" target="_blank"><img src="/static/img/social/facebook.svg" alt="Facebook"></a></td>
+        <td><a title="Follow CollegeXpress on Twitter" href="https://twitter.com/collegexpress" target="_blank"><img src="/static/img/social/twitter.svg" alt="Twitter"></a></td>
+        <td><a title="Follow CollegeXpress on YouTube" href="https://www.youtube.com/user/CollegeXpress" target="_blank"><img src="/static/img/social/youtube.svg" alt="YouTube"></a></td>
+        <td><a title="Follow CollegeXpress on Instagram" href="https://www.instagram.com/collegexpress/" target="_blank"><img src="/static/img/social/instagram.svg" alt="Instagram"></a></td>
+        <td><a title="Follow CollegeXpress on Pinterest" href="https://www.pinterest.com/collegexpress/" target="_blank"><img src="/static/img/social/pinterest.svg" alt="Pinterest"></a></td>
+        <td><a title="Follow CollegeXpress on LinkedIn" href="https://www.linkedin.com/company/collegexpress" target="_blank"><img src="/static/img/social/linkedin.svg" alt="LinkedIn"></a></td>
+      </tr>
+    </table>
+
+    <p class="mt-20"><a target="_blank" title="Carnegie Dartlet BBB Business Review" href="http://www.bbb.org/boston/business-reviews/marketing-programs-and-services/carnegie-communications-in-westford-ma-136489/#bbbonlineclick"><img width="120" alt="Carnegie Dartlet BBB Business Review" style="border: 0;" src="https://seal-boston.bbb.org/seals/blue-seal-160-82-carnegie-communications-136489.png" /></a></p>
+
+    </div>
+    
+
+   </div><!-- / content -->
+
+  </footer>
+
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.validate/1.15.0/jquery.validate.min.js"></script>
+  <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery.validate/1.15.0/additional-methods.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+  <script type="text/javascript" src="/static/js/jquery.sticky.js"></script>
+  <!-- Unbounce Sticky Bar for Giveback Announcement -->
+  <script src="https://4bc3e21f4d684435bdeb0694f920e003.js.ubembed.com" async></script>
+
+  <script src="/static/gen/core.js"></script>
+
+  
+  
+  
+  <script src="/static/js/jquery.mixitup.min.js"></script>
+  <script>
+    $(document).ready(function(){
+      $('.flipcards').mixitup({
+        onMixEnd: function (cardflip) {
+          $(".target").show
+          $('.hover').hover(function(){
+            $(this).addClass('flip');
+            },function(){
+              $(this).removeClass('flip');
+            });
+        }
+      });
+      
+      $(".target").show
+      $('.hover').hover(function(){
+        $(this).addClass('flip');
+        },function(){
+          $(this).removeClass('flip');
+        });
+    });
+    
+    $("#chapter_id").change(function(){
+      $("#section_id")[0].selectedIndex=0;
+    });
+    
+    $("#chapter_id, #section_id").change(function(){
+      this.form.submit();
+    });
+  </script>
+
+  
+        
+
+        
+
+
+
+  <script>
+    $(".inquiry_btn").click(function(){
+      var scid = $(this).data("scid");
+        if ($("body").hasClass("gcu")) {
+          var url = "/reg/signup?iama=S%3A9&require=1";
+          var decodeUrl = decodeURIComponent(url);
+          window.location.href = decodeUrl
+        } else {
+          var url = "/reg/signup?campaign=schoolconnect&scid=-1".replace("-1", scid);
+          window.location.href = url;
+        }
+      return false;
+    });
+  </script>
+
+  
+  
+
+  
+
+
+
+    
+    
+
+ <!-- Google Code for CollegeXpress All Remarketing List -->
+ <script type="text/javascript">
+ /* <![CDATA[ */
+ var google_conversion_id = 1003271569;
+ var google_conversion_label = "ZQXrCNf_hQQQkeuy3gM";
+ var google_custom_params = window.google_tag_params;
+ var google_remarketing_only = true;
+ /* ]]> */
+ </script>
+ <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+ </script>
+ <noscript>
+ <div style="display:inline;">
+ <img height="1" width="1" style="border-style:none;" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1003271569/?value=0&amp;label=ZQXrCNf_hQQQkeuy3gM&amp;guid=ON&amp;script=0"/>
+  </div>
+  </noscript>
+
+
+  
+    <script>
+    $(function() {
+
+      var pageWidth = $(window).width();
+
+      $('#menuToggle input').click(function() {
+       $('#menu').toggle();
+       $('html, body').toggleClass('noscroll');
+      });
+
+      if(typeof(Modernizr) != "undefined" && Modernizr.input.placeholder){
+        $("#body").addClass("has-placeholder");
+      }
+
+      // messages
+      $("div.error_container").delay(1000).animate({
+        left: '+=380'
+      }).delay(7000).animate({
+        left: '-=380'
+      });
+
+      // slide up message
+      $(window).scroll(function () {
+        if ($(this).scrollTop() > 200) {
+          if ($.cookie('fb-out') != 'true' ) {
+            $(".slide_up").slideDown(800);
+            $(".close_banner").click(function() {
+              $(".slide_up").slideUp(500);
+              var date = new Date();
+              var minutes = 120;
+              date.setTime(date.getTime() + (minutes * 60 * 1000));
+              $.cookie('fb-out', 'true', { expires: date, path: '/' });
+              return false;
+            });
+          }
+        }
+      });
+
+      // slide up message logged in
+      $(window).scroll(function () {
+        if ($(this).scrollTop() > 200) {
+          if ($.cookie('fb-in') != 'true' ) {
+            $(".slide_up_in").slideDown(800);
+            $(".close_banner").click(function() {
+              $(".slide_up_in").slideUp(500);
+              $.cookie('fb-in', 'true', { expires: 7, path: '/'});
+              return false;
+            });
+          }
+        }
+      });
+
+      // dropdown menus
+      var megaConfig = {
+             interval: 100,
+             sensitivity: 7,
+             over: function(){
+          $(this).find("ul").show();
+          $(this).addClass('link-category');
+         },
+             timeout: 300,
+             out: function(){
+          $(this).find("ul").hide();
+          $(this).removeClass('link-category');
+         }
+        };
+
+      if ($(window).width() >= 1259) {
+        $(".content_category").hoverIntent(megaConfig);
+      }
+
+      $("a.tracked, button.tracked").click(function(){
+        $(this).removeClass("tracked");
+        try{
+          
+  
+        }
+        catch(e){}
+        return true;
+      });
+
+      //accordion for footer links
+      $('.accordion').click(function() {
+        $(this).next('ul').slideToggle();
+        $(this).children('.toggle').toggleClass('rotate');
+        return false;
+      });
+
+      //offsets for inline anchors
+      $('a[href*="#"]:not([href="#"])').click(function() {
+        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+          var target = $(this.hash);
+          target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+          if (target.length) {
+            $('html, body').animate({
+              scrollTop: target.offset().top - 150
+            }, 1000);
+            return false;
+          }
+        }
+      });
+
+      //Handle input and selects being style proper evin if autofilled
+      setTimeout(function () {
+        $('input, select').each(function(){
+          if($(this).val()) {
+            $(this).addClass('active');
+          }
+          else if($(this).val() == 188){
+            $(this).removeClass('active');
+          }
+        });
+        $('#id_country_id').removeClass('active');
+      }, 500);
+
+      $('input, select').change(function() {
+        if($(this).val()){
+          $(this).addClass('active');
+        }
+        else{
+          $(this).removeClass('active');
+        }
+      });
+
+    });
+
+  </script>
+
+  
+
+
+  
+
+    <script>
+
+      var dataLayer = [];
+    </script>
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-52R65W"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-52R65W');</script>
+    <!-- End Google Tag Manager -->
+  <!-- google + -->
+  <script type="text/javascript">
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+    (function(){
+     var tw = document.createElement('script'); tw.type = 'text/javascript'; tw.async = true;
+     tw.src = "https://platform.twitter.com/widgets.js";
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(tw, s);
+     })();
+  </script>
+
+  <!-- schema.org CX info -->
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "CollegeXpress",
+    "url" : "https://www.collegexpress.com/",
+    "logo": "https://www.collegexpress.com/static/img/collegeXpressLogo.png",
+    "sameAs" : [
+      "https://www.facebook.com/pages/CollegeXpress/226197927416298",
+      "https://twitter.com/CollegeXpress",
+      "https://plus.google.com/+Collegexpress/",
+      "https://www.instagram.com/collegexpress/"
+    ],
+    "contactPoint" : [{
+      "@type" : "ContactPoint",
+      "telephone" : "+1-978-692-5092",
+      "contactType" : "customer service"
+    }]
+  }
+  </script>
+
+  <script>
+  
+  
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#000"
+        }
+        ,"button": {
+          "background": "#01dc7e"
+        }
+      }
+      ,"content": {
+        "href": "https://www.carnegiehighered.com/privacy-policy/"
+         ,"message": "This website uses cookies to ensure you get the best experience on our website."
+         ,"dismiss": "Got it"
+
+      }
+      , "location": {
+         serviceDefinitions: {
+
+           geolocation: function(options) {
+             return {
+               url: 'https://freegeoip.app/json/',
+               callback: function(done, response) {
+                 // This function must parse the 'response' and return the country code, or fail.
+                 // If this function doesn't fail correctly, then the next service will not run.
+                 // Therefore, it's generally best to add a try {...} catch () {...} block
+                 try {
+                   var json = JSON.parse(response);
+                   // console.log(json.country_code);
+                   if (json.country_code) {
+                     return {code: json.country_code}
+                   }
+                   throw 'Could not find a country code in the response';
+                 } catch (err) {
+                   return new Error('Invalid response (' + err + ')');
+                 }
+               },
+             };
+           },
+         },
+         services: ["geolocation"]
+      }
+    })
+  });
+</script>
+
+
+ </body>
+</html>
